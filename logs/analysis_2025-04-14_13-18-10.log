@@ -1,0 +1,794 @@
+2025-04-14 13:18:17,133 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-14 13:18:27,479 - INFO - Training with 12 features for RELIANCE.NS
+2025-04-14 13:18:27,485 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:18:27,490 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:18:27,782 - INFO - Loaded fine-tuned model for RELIANCE.NS with matching features
+2025-04-14 13:18:27,783 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:18:27,788 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:18:27,788 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:18:39,896 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-04-14 13:18:46,172 - INFO - Training with 12 features for TCS.NS
+2025-04-14 13:18:46,179 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:18:46,186 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:18:46,463 - INFO - Loaded fine-tuned model for TCS.NS with matching features
+2025-04-14 13:18:46,463 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:18:46,471 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:18:46,472 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:18:54,273 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-04-14 13:18:58,559 - INFO - Training with 12 features for HDFCBANK.NS
+2025-04-14 13:18:58,567 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:18:58,577 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:18:58,931 - INFO - Loaded fine-tuned model for HDFCBANK.NS with matching features
+2025-04-14 13:18:58,931 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:18:58,935 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:18:58,935 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:19:05,672 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-04-14 13:19:12,739 - INFO - Training with 12 features for INFY.NS
+2025-04-14 13:19:12,747 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:19:12,754 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:19:12,993 - INFO - Loaded fine-tuned model for INFY.NS with matching features
+2025-04-14 13:19:12,994 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:19:12,998 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:19:12,998 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:19:19,416 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-04-14 13:19:24,365 - INFO - Training with 12 features for HINDUNILVR.NS
+2025-04-14 13:19:24,372 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:19:24,382 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:19:24,670 - INFO - Loaded fine-tuned model for HINDUNILVR.NS with matching features
+2025-04-14 13:19:24,671 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:19:24,674 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:19:24,675 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:19:30,036 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-04-14 13:19:35,836 - INFO - Training with 12 features for ICICIBANK.NS
+2025-04-14 13:19:35,841 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:19:35,846 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:19:36,104 - INFO - Loaded fine-tuned model for ICICIBANK.NS with matching features
+2025-04-14 13:19:36,104 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:19:36,109 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:19:36,110 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:19:42,703 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-04-14 13:19:49,702 - INFO - Training with 12 features for KOTAKBANK.NS
+2025-04-14 13:19:49,706 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:19:49,711 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:19:49,972 - INFO - Loaded fine-tuned model for KOTAKBANK.NS with matching features
+2025-04-14 13:19:49,972 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:19:49,977 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:19:49,977 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:19:57,159 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-14 13:20:02,125 - INFO - Training with 12 features for SBIN.NS
+2025-04-14 13:20:02,132 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:20:02,136 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:20:02,362 - INFO - Loaded fine-tuned model for SBIN.NS with matching features
+2025-04-14 13:20:02,362 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:20:02,366 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:20:02,366 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:20:10,029 - INFO - Analyzing Bajaj Finance Limited (BAJFINANCE.NS)
+2025-04-14 13:20:15,182 - INFO - Training with 12 features for BAJFINANCE.NS
+2025-04-14 13:20:15,188 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:20:15,217 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:20:15,481 - INFO - Loaded fine-tuned model for BAJFINANCE.NS with matching features
+2025-04-14 13:20:15,481 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:20:15,486 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:20:15,486 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:20:22,467 - INFO - Analyzing Bharti Airtel Limited (BHARTIARTL.NS)
+2025-04-14 13:20:28,372 - INFO - Training with 12 features for BHARTIARTL.NS
+2025-04-14 13:20:28,423 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:20:28,426 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:20:28,697 - INFO - Loaded fine-tuned model for BHARTIARTL.NS with matching features
+2025-04-14 13:20:28,697 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:20:28,701 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:20:28,702 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:20:34,201 - INFO - Analyzing Adani Ports and Special Economic Zone Limited (ADANIPORTS.NS)
+2025-04-14 13:20:39,572 - INFO - Training with 12 features for ADANIPORTS.NS
+2025-04-14 13:20:39,577 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:20:39,582 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:20:39,820 - INFO - Loaded fine-tuned model for ADANIPORTS.NS with matching features
+2025-04-14 13:20:39,820 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:20:39,825 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:20:39,825 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:20:46,969 - INFO - Analyzing Asian Paints Limited (ASIANPAINT.NS)
+2025-04-14 13:20:53,194 - INFO - Training with 12 features for ASIANPAINT.NS
+2025-04-14 13:20:53,200 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:20:53,206 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:20:53,455 - INFO - Loaded fine-tuned model for ASIANPAINT.NS with matching features
+2025-04-14 13:20:53,455 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:20:53,462 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:20:53,462 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:20:59,603 - INFO - Analyzing Axis Bank Limited (AXISBANK.NS)
+2025-04-14 13:21:03,919 - INFO - Training with 12 features for AXISBANK.NS
+2025-04-14 13:21:03,924 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:21:03,981 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:21:04,206 - INFO - Loaded fine-tuned model for AXISBANK.NS with matching features
+2025-04-14 13:21:04,206 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:21:04,210 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:21:04,211 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:21:10,654 - INFO - Analyzing Bajaj Auto Limited (BAJAJ-AUTO.NS)
+2025-04-14 13:21:15,972 - INFO - Training with 12 features for BAJAJ-AUTO.NS
+2025-04-14 13:21:15,978 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:21:15,983 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:21:16,234 - INFO - Loaded fine-tuned model for BAJAJ-AUTO.NS with matching features
+2025-04-14 13:21:16,235 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:21:16,240 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:21:16,240 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:21:22,965 - INFO - Analyzing Bharat Petroleum Corporation Limited (BPCL.NS)
+2025-04-14 13:21:29,554 - INFO - Training with 12 features for BPCL.NS
+2025-04-14 13:21:29,560 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:21:29,565 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:21:29,844 - INFO - Loaded fine-tuned model for BPCL.NS with matching features
+2025-04-14 13:21:29,845 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:21:29,848 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:21:29,848 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:21:34,725 - INFO - Analyzing Britannia Industries Limited (BRITANNIA.NS)
+2025-04-14 13:21:39,570 - INFO - Training with 12 features for BRITANNIA.NS
+2025-04-14 13:21:39,575 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:21:39,580 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:21:39,858 - INFO - Loaded fine-tuned model for BRITANNIA.NS with matching features
+2025-04-14 13:21:39,860 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:21:39,865 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:21:39,865 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:21:46,180 - INFO - Analyzing Cipla Limited (CIPLA.NS)
+2025-04-14 13:21:52,068 - INFO - Training with 12 features for CIPLA.NS
+2025-04-14 13:21:52,074 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:21:52,080 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:21:52,336 - INFO - Loaded fine-tuned model for CIPLA.NS with matching features
+2025-04-14 13:21:52,336 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:21:52,341 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:21:52,342 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:21:58,590 - INFO - Analyzing Coal India Limited (COALINDIA.NS)
+2025-04-14 13:22:02,202 - INFO - Training with 12 features for COALINDIA.NS
+2025-04-14 13:22:02,208 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:22:02,212 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:22:02,508 - INFO - Loaded fine-tuned model for COALINDIA.NS with matching features
+2025-04-14 13:22:02,508 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:22:02,512 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:22:02,512 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:22:08,662 - INFO - Analyzing Divi's Laboratories Limited (DIVISLAB.NS)
+2025-04-14 13:22:09,695 - INFO - Training with 12 features for DIVISLAB.NS
+2025-04-14 13:22:09,701 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:22:09,715 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:22:10,038 - INFO - Loaded fine-tuned model for DIVISLAB.NS with matching features
+2025-04-14 13:22:10,039 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:22:10,046 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:22:10,047 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:22:16,741 - INFO - Analyzing Dr. Reddy's Laboratories Limited (DRREDDY.NS)
+2025-04-14 13:22:23,618 - INFO - Training with 12 features for DRREDDY.NS
+2025-04-14 13:22:23,625 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:22:23,634 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:22:23,921 - INFO - Loaded fine-tuned model for DRREDDY.NS with matching features
+2025-04-14 13:22:23,921 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:22:23,925 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:22:23,925 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:22:30,809 - INFO - Analyzing Eicher Motors Limited (EICHERMOT.NS)
+2025-04-14 13:22:35,068 - INFO - Training with 12 features for EICHERMOT.NS
+2025-04-14 13:22:35,074 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:22:35,126 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:22:35,362 - INFO - Loaded fine-tuned model for EICHERMOT.NS with matching features
+2025-04-14 13:22:35,362 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:22:35,369 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:22:35,370 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:22:41,926 - INFO - Analyzing Grasim Industries Limited (GRASIM.NS)
+2025-04-14 13:22:46,715 - INFO - Training with 12 features for GRASIM.NS
+2025-04-14 13:22:46,722 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:22:46,728 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:22:46,985 - INFO - Loaded fine-tuned model for GRASIM.NS with matching features
+2025-04-14 13:22:46,986 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:22:46,990 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:22:46,990 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:22:53,354 - INFO - Analyzing HCL Technologies Limited (HCLTECH.NS)
+2025-04-14 13:22:59,414 - INFO - Training with 12 features for HCLTECH.NS
+2025-04-14 13:22:59,425 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:22:59,432 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:22:59,690 - INFO - Loaded fine-tuned model for HCLTECH.NS with matching features
+2025-04-14 13:22:59,691 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:22:59,696 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:22:59,696 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:23:06,113 - INFO - Analyzing Hero MotoCorp Limited (HEROMOTOCO.NS)
+2025-04-14 13:23:09,702 - INFO - Training with 12 features for HEROMOTOCO.NS
+2025-04-14 13:23:09,707 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:23:09,711 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:23:09,929 - INFO - Loaded fine-tuned model for HEROMOTOCO.NS with matching features
+2025-04-14 13:23:09,929 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:23:09,933 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:23:09,934 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:23:16,159 - INFO - Analyzing HDFC Life Insurance Company Limited (HDFCLIFE.NS)
+2025-04-14 13:23:21,301 - INFO - Training with 12 features for HDFCLIFE.NS
+2025-04-14 13:23:21,305 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:23:21,310 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:23:21,572 - INFO - Loaded fine-tuned model for HDFCLIFE.NS with matching features
+2025-04-14 13:23:21,572 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:23:21,576 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:23:21,577 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:23:27,969 - INFO - Analyzing ITC Limited (ITC.NS)
+2025-04-14 13:23:34,503 - INFO - Training with 12 features for ITC.NS
+2025-04-14 13:23:34,508 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:23:34,513 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:23:34,794 - INFO - Loaded fine-tuned model for ITC.NS with matching features
+2025-04-14 13:23:34,794 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:23:34,798 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:23:34,799 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:23:40,657 - INFO - Analyzing IndusInd Bank Limited (INDUSINDBK.NS)
+2025-04-14 13:23:50,456 - INFO - Training with 12 features for INDUSINDBK.NS
+2025-04-14 13:23:50,461 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:23:50,465 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:23:50,774 - INFO - Loaded fine-tuned model for INDUSINDBK.NS with matching features
+2025-04-14 13:23:50,774 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:23:50,779 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:23:50,779 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:23:57,697 - INFO - Analyzing JSW Steel Limited (JSWSTEEL.NS)
+2025-04-14 13:24:03,734 - INFO - Training with 12 features for JSWSTEEL.NS
+2025-04-14 13:24:03,740 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:24:03,791 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:24:04,052 - INFO - Loaded fine-tuned model for JSWSTEEL.NS with matching features
+2025-04-14 13:24:04,053 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:24:04,057 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:24:04,058 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:24:09,642 - INFO - Analyzing Larsen & Toubro Limited (LT.NS)
+2025-04-14 13:24:18,471 - INFO - Training with 12 features for LT.NS
+2025-04-14 13:24:18,480 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:24:18,490 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:24:18,855 - INFO - Loaded fine-tuned model for LT.NS with matching features
+2025-04-14 13:24:18,855 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:24:18,867 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:24:18,867 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:24:27,068 - INFO - Analyzing Maruti Suzuki India Limited (MARUTI.NS)
+2025-04-14 13:24:34,478 - INFO - Training with 12 features for MARUTI.NS
+2025-04-14 13:24:34,484 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:24:34,488 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:24:34,794 - INFO - Loaded fine-tuned model for MARUTI.NS with matching features
+2025-04-14 13:24:34,795 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:24:34,799 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:24:34,799 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:24:40,315 - INFO - Analyzing Nestlé India Limited (NESTLEIND.NS)
+2025-04-14 13:24:45,005 - INFO - Training with 12 features for NESTLEIND.NS
+2025-04-14 13:24:45,011 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:24:45,020 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:24:45,359 - INFO - Loaded fine-tuned model for NESTLEIND.NS with matching features
+2025-04-14 13:24:45,359 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:24:45,365 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:24:45,365 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:24:53,326 - INFO - Analyzing NTPC Limited (NTPC.NS)
+2025-04-14 13:25:01,586 - INFO - Training with 12 features for NTPC.NS
+2025-04-14 13:25:01,590 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:25:01,594 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:25:01,836 - INFO - Loaded fine-tuned model for NTPC.NS with matching features
+2025-04-14 13:25:01,837 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:25:01,843 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:25:01,843 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:25:09,784 - INFO - Analyzing Oil and Natural Gas Corporation Limited (ONGC.NS)
+2025-04-14 13:25:13,875 - INFO - Training with 12 features for ONGC.NS
+2025-04-14 13:25:13,880 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:25:13,885 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:25:14,145 - INFO - Loaded fine-tuned model for ONGC.NS with matching features
+2025-04-14 13:25:14,145 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:25:14,149 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:25:14,149 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:25:21,951 - INFO - Analyzing Power Grid Corporation of India Limited (POWERGRID.NS)
+2025-04-14 13:25:29,358 - INFO - Training with 12 features for POWERGRID.NS
+2025-04-14 13:25:29,364 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:25:29,370 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:25:29,678 - INFO - Loaded fine-tuned model for POWERGRID.NS with matching features
+2025-04-14 13:25:29,678 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:25:29,683 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:25:29,683 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:25:37,789 - INFO - Analyzing SBI Life Insurance Company Limited (SBILIFE.NS)
+2025-04-14 13:25:45,107 - INFO - Training with 12 features for SBILIFE.NS
+2025-04-14 13:25:45,112 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:25:45,116 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:25:45,371 - INFO - Loaded fine-tuned model for SBILIFE.NS with matching features
+2025-04-14 13:25:45,371 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:25:45,374 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:25:45,375 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:25:53,628 - INFO - Analyzing Sun Pharmaceutical Industries Limited (SUNPHARMA.NS)
+2025-04-14 13:26:00,102 - INFO - Training with 12 features for SUNPHARMA.NS
+2025-04-14 13:26:00,109 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:26:00,114 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:26:00,368 - INFO - Loaded fine-tuned model for SUNPHARMA.NS with matching features
+2025-04-14 13:26:00,369 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:26:00,374 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:26:00,374 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:26:07,153 - INFO - Analyzing Tata Consumer Products Limited (TATACONSUM.NS)
+2025-04-14 13:26:13,327 - INFO - Training with 12 features for TATACONSUM.NS
+2025-04-14 13:26:13,333 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:26:13,341 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:26:13,573 - INFO - Loaded fine-tuned model for TATACONSUM.NS with matching features
+2025-04-14 13:26:13,574 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:26:13,578 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:26:13,578 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:26:20,005 - INFO - Analyzing Tata Motors Limited (TATAMOTORS.NS)
+2025-04-14 13:26:27,998 - INFO - Training with 12 features for TATAMOTORS.NS
+2025-04-14 13:26:28,005 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:26:28,010 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:26:28,252 - INFO - Loaded fine-tuned model for TATAMOTORS.NS with matching features
+2025-04-14 13:26:28,253 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:26:28,257 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:26:28,257 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:26:37,195 - INFO - Analyzing Tata Steel Limited (TATASTEEL.NS)
+2025-04-14 13:26:44,549 - INFO - Training with 12 features for TATASTEEL.NS
+2025-04-14 13:26:44,554 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:26:44,558 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:26:44,800 - INFO - Loaded fine-tuned model for TATASTEEL.NS with matching features
+2025-04-14 13:26:44,800 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:26:44,804 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:26:44,805 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:26:50,834 - INFO - Analyzing Tech Mahindra Limited (TECHM.NS)
+2025-04-14 13:26:56,436 - INFO - Training with 12 features for TECHM.NS
+2025-04-14 13:26:56,443 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:26:56,466 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:26:56,699 - INFO - Loaded fine-tuned model for TECHM.NS with matching features
+2025-04-14 13:26:56,699 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:26:56,703 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:26:56,703 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:27:04,132 - INFO - Analyzing Titan Company Limited (TITAN.NS)
+2025-04-14 13:27:10,937 - INFO - Training with 12 features for TITAN.NS
+2025-04-14 13:27:10,941 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:27:10,948 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:27:11,196 - INFO - Loaded fine-tuned model for TITAN.NS with matching features
+2025-04-14 13:27:11,197 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:27:11,201 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:27:11,201 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:27:18,225 - INFO - Analyzing UltraTech Cement Limited (ULTRACEMCO.NS)
+2025-04-14 13:27:24,331 - INFO - Training with 12 features for ULTRACEMCO.NS
+2025-04-14 13:27:24,337 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:27:24,341 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:27:24,639 - INFO - Loaded fine-tuned model for ULTRACEMCO.NS with matching features
+2025-04-14 13:27:24,640 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:27:24,644 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:27:24,645 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:27:32,786 - INFO - Analyzing Wipro Limited (WIPRO.NS)
+2025-04-14 13:27:39,369 - INFO - Training with 12 features for WIPRO.NS
+2025-04-14 13:27:39,375 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:27:39,386 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:27:39,635 - INFO - Loaded fine-tuned model for WIPRO.NS with matching features
+2025-04-14 13:27:39,635 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:27:39,639 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:27:39,640 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:27:47,337 - INFO - Analyzing Mahindra & Mahindra Limited (M&M.NS)
+2025-04-14 13:27:55,469 - INFO - Training with 12 features for M&M.NS
+2025-04-14 13:27:55,475 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:27:55,479 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:27:55,710 - INFO - Loaded fine-tuned model for M&M.NS with matching features
+2025-04-14 13:27:55,711 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:27:55,714 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:27:55,715 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:28:02,392 - INFO - Analyzing Adani Enterprises Limited (ADANIENT.NS)
+2025-04-14 13:28:08,785 - INFO - Training with 12 features for ADANIENT.NS
+2025-04-14 13:28:08,789 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:28:08,797 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:28:09,103 - INFO - Loaded fine-tuned model for ADANIENT.NS with matching features
+2025-04-14 13:28:09,104 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:28:09,108 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:28:09,108 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:28:19,520 - INFO - Analyzing Apollo Hospitals Enterprise Limited (APOLLOHOSP.NS)
+2025-04-14 13:28:38,028 - ERROR - Error fetching news sentiment: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-14 13:28:38,098 - INFO - Training with 12 features for APOLLOHOSP.NS
+2025-04-14 13:28:38,103 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:28:38,114 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:28:38,353 - INFO - Loaded fine-tuned model for APOLLOHOSP.NS with matching features
+2025-04-14 13:28:38,354 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:28:38,361 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:28:38,361 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:28:53,814 - INFO - Analyzing Bajaj Finserv Ltd. (BAJAJFINSV.NS)
+2025-04-14 13:29:04,412 - INFO - Training with 12 features for BAJAJFINSV.NS
+2025-04-14 13:29:04,418 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:29:04,466 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:29:04,732 - INFO - Loaded fine-tuned model for BAJAJFINSV.NS with matching features
+2025-04-14 13:29:04,732 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:29:04,736 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:29:04,737 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:29:14,555 - INFO - Analyzing Hindalco Industries Limited (HINDALCO.NS)
+2025-04-14 13:29:23,442 - INFO - Training with 12 features for HINDALCO.NS
+2025-04-14 13:29:23,448 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:29:23,452 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:29:23,711 - INFO - Loaded fine-tuned model for HINDALCO.NS with matching features
+2025-04-14 13:29:23,712 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:29:23,716 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:29:23,716 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:29:31,488 - INFO - Analyzing UPL Limited (UPL.NS)
+2025-04-14 13:29:40,819 - INFO - Training with 12 features for UPL.NS
+2025-04-14 13:29:40,829 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:29:40,836 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:29:41,160 - INFO - Loaded fine-tuned model for UPL.NS with matching features
+2025-04-14 13:29:41,160 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:29:41,165 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:29:41,166 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:29:51,869 - INFO - Analyzing Shree Cement Limited (SHREECEM.NS)
+2025-04-14 13:30:11,481 - INFO - Training with 12 features for SHREECEM.NS
+2025-04-14 13:30:11,491 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:30:11,496 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:30:11,832 - INFO - Loaded fine-tuned model for SHREECEM.NS with matching features
+2025-04-14 13:30:11,832 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:30:11,837 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:30:11,837 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:30:18,981 - INFO - Analyzing Avenue Supermarts Limited (DMART.NS)
+2025-04-14 13:30:26,217 - INFO - Training with 12 features for DMART.NS
+2025-04-14 13:30:26,224 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:30:26,230 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:30:26,547 - INFO - Loaded fine-tuned model for DMART.NS with matching features
+2025-04-14 13:30:26,548 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:30:26,553 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:30:26,553 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:30:35,076 - INFO - Analyzing Godrej Consumer Products Limited (GODREJCP.NS)
+2025-04-14 13:30:41,246 - INFO - Training with 12 features for GODREJCP.NS
+2025-04-14 13:30:41,251 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:30:41,256 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:30:41,535 - INFO - Loaded fine-tuned model for GODREJCP.NS with matching features
+2025-04-14 13:30:41,536 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:30:41,539 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:30:41,540 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:30:48,514 - INFO - Analyzing Bharat Electronics Limited (BEL.NS)
+2025-04-14 13:30:56,426 - INFO - Training with 12 features for BEL.NS
+2025-04-14 13:30:56,431 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:30:56,435 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:30:56,694 - INFO - Loaded fine-tuned model for BEL.NS with matching features
+2025-04-14 13:30:56,695 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:30:56,698 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:30:56,699 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:31:02,847 - INFO - Analyzing The Tata Power Company Limited (TATAPOWER.NS)
+2025-04-14 13:31:06,898 - INFO - Training with 12 features for TATAPOWER.NS
+2025-04-14 13:31:06,903 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:31:06,947 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:31:07,187 - INFO - Loaded fine-tuned model for TATAPOWER.NS with matching features
+2025-04-14 13:31:07,188 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:31:07,192 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:31:07,193 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:31:14,196 - INFO - Analyzing Vedanta Limited (VEDL.NS)
+2025-04-14 13:31:20,932 - INFO - Training with 12 features for VEDL.NS
+2025-04-14 13:31:20,940 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:31:20,950 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:31:21,245 - INFO - Loaded fine-tuned model for VEDL.NS with matching features
+2025-04-14 13:31:21,245 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:31:21,249 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:31:21,249 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:31:28,121 - INFO - Analyzing Indian Oil Corporation Limited (IOC.NS)
+2025-04-14 13:31:36,203 - INFO - Training with 12 features for IOC.NS
+2025-04-14 13:31:36,210 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:31:36,215 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:31:36,521 - INFO - Loaded fine-tuned model for IOC.NS with matching features
+2025-04-14 13:31:36,522 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:31:36,525 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:31:36,525 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:31:43,562 - INFO - Analyzing Dabur India Limited (DABUR.NS)
+2025-04-14 13:31:52,266 - INFO - Training with 12 features for DABUR.NS
+2025-04-14 13:31:52,272 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:31:52,276 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:31:52,546 - INFO - Loaded fine-tuned model for DABUR.NS with matching features
+2025-04-14 13:31:52,546 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:31:52,553 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:31:52,554 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:32:00,122 - INFO - Analyzing Pidilite Industries Limited (PIDILITIND.NS)
+2025-04-14 13:32:05,097 - INFO - Training with 12 features for PIDILITIND.NS
+2025-04-14 13:32:05,102 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:32:05,105 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:32:05,393 - INFO - Loaded fine-tuned model for PIDILITIND.NS with matching features
+2025-04-14 13:32:05,393 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:32:05,398 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:32:05,399 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:32:12,201 - INFO - Analyzing Havells India Limited (HAVELLS.NS)
+2025-04-14 13:32:20,647 - INFO - Training with 12 features for HAVELLS.NS
+2025-04-14 13:32:20,651 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:32:20,656 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:32:20,909 - INFO - Loaded fine-tuned model for HAVELLS.NS with matching features
+2025-04-14 13:32:20,910 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:32:20,913 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:32:20,914 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:32:30,544 - INFO - Analyzing GAIL (India) Limited (GAIL.NS)
+2025-04-14 13:32:46,643 - INFO - Training with 12 features for GAIL.NS
+2025-04-14 13:32:46,648 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:32:46,653 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:32:46,953 - INFO - Loaded fine-tuned model for GAIL.NS with matching features
+2025-04-14 13:32:46,953 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:32:46,960 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:32:46,961 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:33:01,542 - INFO - Analyzing Marico Limited (MARICO.NS)
+2025-04-14 13:33:06,293 - INFO - Training with 12 features for MARICO.NS
+2025-04-14 13:33:06,298 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:33:06,304 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:33:06,570 - INFO - Loaded fine-tuned model for MARICO.NS with matching features
+2025-04-14 13:33:06,570 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:33:06,575 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:33:06,576 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:33:12,117 - INFO - Analyzing ICICI Prudential Life Insurance Company Limited (ICICIPRULI.NS)
+2025-04-14 13:33:18,803 - INFO - Training with 12 features for ICICIPRULI.NS
+2025-04-14 13:33:18,809 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:33:18,814 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:33:19,133 - INFO - Loaded fine-tuned model for ICICIPRULI.NS with matching features
+2025-04-14 13:33:19,134 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:33:19,139 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:33:19,140 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:33:27,468 - INFO - Analyzing Siemens Limited (SIEMENS.NS)
+2025-04-14 13:33:36,278 - INFO - Training with 12 features for SIEMENS.NS
+2025-04-14 13:33:36,288 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:33:36,300 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:33:36,713 - INFO - Loaded fine-tuned model for SIEMENS.NS with matching features
+2025-04-14 13:33:36,713 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:33:36,718 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:33:36,719 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:33:43,379 - INFO - Analyzing Ambuja Cements Limited (AMBUJACEM.NS)
+2025-04-14 13:33:51,647 - INFO - Training with 12 features for AMBUJACEM.NS
+2025-04-14 13:33:51,653 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:33:51,658 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:33:52,119 - INFO - Loaded fine-tuned model for AMBUJACEM.NS with matching features
+2025-04-14 13:33:52,120 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:33:52,127 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:33:52,127 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:34:02,123 - INFO - Analyzing Bank of Baroda Limited (BANKBARODA.NS)
+2025-04-14 13:34:15,515 - INFO - Training with 12 features for BANKBARODA.NS
+2025-04-14 13:34:15,523 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:34:15,528 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:34:15,872 - INFO - Loaded fine-tuned model for BANKBARODA.NS with matching features
+2025-04-14 13:34:15,872 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:34:15,878 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:34:15,878 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:34:22,700 - INFO - Analyzing Punjab National Bank (PNB.NS)
+2025-04-14 13:34:29,736 - INFO - Training with 12 features for PNB.NS
+2025-04-14 13:34:29,742 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:34:29,746 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:34:30,099 - INFO - Loaded fine-tuned model for PNB.NS with matching features
+2025-04-14 13:34:30,100 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:34:30,104 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:34:30,105 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:34:38,183 - INFO - Analyzing Eternal Limited (ZOMATO.NS)
+2025-04-14 13:34:46,409 - INFO - Training with 12 features for ZOMATO.NS
+2025-04-14 13:34:46,416 - INFO - Scaled data shape: (920, 12)
+2025-04-14 13:34:46,420 - INFO - Training data shape: X=(860, 60, 12), y=(860,)
+2025-04-14 13:34:46,745 - INFO - Loaded fine-tuned model for ZOMATO.NS with matching features
+2025-04-14 13:34:46,745 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:34:46,749 - INFO - Prediction data scaled shape: (920, 12)
+2025-04-14 13:34:46,750 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:34:53,496 - INFO - Analyzing Info Edge (India) Limited (NAUKRI.NS)
+2025-04-14 13:35:01,221 - INFO - Training with 12 features for NAUKRI.NS
+2025-04-14 13:35:01,225 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:35:01,230 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:35:01,494 - INFO - Loaded fine-tuned model for NAUKRI.NS with matching features
+2025-04-14 13:35:01,494 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:35:01,499 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:35:01,499 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:35:09,074 - INFO - Analyzing Trent Limited (TRENT.NS)
+2025-04-14 13:35:14,945 - INFO - Training with 12 features for TRENT.NS
+2025-04-14 13:35:14,952 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:35:15,005 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:35:15,273 - INFO - Loaded fine-tuned model for TRENT.NS with matching features
+2025-04-14 13:35:15,274 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:35:15,278 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:35:15,279 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:35:31,052 - ERROR - Analysis failed for MCDOWELL-N.NS: 'NoneType' object has no attribute 'update'
+2025-04-14 13:35:35,511 - INFO - Analyzing LTIMindtree Limited (LTIM.NS)
+2025-04-14 13:35:43,441 - INFO - Training with 12 features for LTIM.NS
+2025-04-14 13:35:43,447 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:35:43,452 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:35:43,748 - INFO - Loaded fine-tuned model for LTIM.NS with matching features
+2025-04-14 13:35:43,749 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:35:43,752 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:35:43,753 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:35:51,674 - INFO - Analyzing Berger Paints India Limited (BERGEPAINT.NS)
+2025-04-14 13:35:57,698 - INFO - Training with 12 features for BERGEPAINT.NS
+2025-04-14 13:35:57,703 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:35:57,707 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:35:58,039 - INFO - Loaded fine-tuned model for BERGEPAINT.NS with matching features
+2025-04-14 13:35:58,040 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:35:58,047 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:35:58,047 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:36:05,616 - INFO - Analyzing Colgate-Palmolive (India) Limited (COLPAL.NS)
+2025-04-14 13:36:11,683 - INFO - Training with 12 features for COLPAL.NS
+2025-04-14 13:36:11,691 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:36:11,696 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:36:11,980 - INFO - Loaded fine-tuned model for COLPAL.NS with matching features
+2025-04-14 13:36:11,981 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:36:11,989 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:36:11,990 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:36:19,819 - INFO - Analyzing ABB India Limited (ABB.NS)
+2025-04-14 13:36:24,840 - INFO - Training with 12 features for ABB.NS
+2025-04-14 13:36:24,845 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:36:24,849 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:36:25,121 - INFO - Loaded fine-tuned model for ABB.NS with matching features
+2025-04-14 13:36:25,122 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:36:25,126 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:36:25,126 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:36:34,114 - INFO - Analyzing Hindustan Aeronautics Limited (HAL.NS)
+2025-04-14 13:36:42,655 - INFO - Training with 12 features for HAL.NS
+2025-04-14 13:36:42,661 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:36:42,666 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:36:42,933 - INFO - Loaded fine-tuned model for HAL.NS with matching features
+2025-04-14 13:36:42,934 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:36:42,937 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:36:42,938 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:36:50,918 - INFO - Analyzing InterGlobe Aviation Limited (INDIGO.NS)
+2025-04-14 13:36:56,136 - INFO - Training with 12 features for INDIGO.NS
+2025-04-14 13:36:56,145 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:36:56,150 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:36:56,485 - INFO - Loaded fine-tuned model for INDIGO.NS with matching features
+2025-04-14 13:36:56,486 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:36:56,491 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:36:56,492 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:37:05,086 - INFO - Analyzing Canara Bank (CANBK.NS)
+2025-04-14 13:37:11,223 - INFO - Training with 12 features for CANBK.NS
+2025-04-14 13:37:11,233 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:37:11,240 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:37:11,562 - INFO - Loaded fine-tuned model for CANBK.NS with matching features
+2025-04-14 13:37:11,562 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:37:11,567 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:37:11,567 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:37:19,513 - INFO - Analyzing ACC Limited (ACC.NS)
+2025-04-14 13:37:28,291 - INFO - Training with 12 features for ACC.NS
+2025-04-14 13:37:28,296 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:37:28,301 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:37:28,601 - INFO - Loaded fine-tuned model for ACC.NS with matching features
+2025-04-14 13:37:28,602 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:37:28,607 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:37:28,608 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:37:37,141 - INFO - Analyzing One97 Communications Limited (PAYTM.NS)
+2025-04-14 13:37:46,122 - INFO - Training with 12 features for PAYTM.NS
+2025-04-14 13:37:46,127 - INFO - Scaled data shape: (840, 12)
+2025-04-14 13:37:46,131 - INFO - Training data shape: X=(780, 60, 12), y=(780,)
+2025-04-14 13:37:46,466 - INFO - Loaded fine-tuned model for PAYTM.NS with matching features
+2025-04-14 13:37:46,467 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:37:46,472 - INFO - Prediction data scaled shape: (840, 12)
+2025-04-14 13:37:46,472 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:37:54,491 - INFO - Analyzing Jindal Steel & Power Limited (JINDALSTEL.NS)
+2025-04-14 13:38:01,224 - INFO - Training with 12 features for JINDALSTEL.NS
+2025-04-14 13:38:01,230 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:38:01,235 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:38:01,514 - INFO - Loaded fine-tuned model for JINDALSTEL.NS with matching features
+2025-04-14 13:38:01,515 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:38:01,519 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:38:01,520 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:38:09,245 - INFO - Analyzing DLF Limited (DLF.NS)
+2025-04-14 13:38:16,694 - INFO - Training with 12 features for DLF.NS
+2025-04-14 13:38:16,700 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:38:16,705 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:38:17,232 - INFO - Loaded fine-tuned model for DLF.NS with matching features
+2025-04-14 13:38:17,232 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:38:17,236 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:38:17,237 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:38:26,034 - INFO - Analyzing ICICI Lombard General Insurance Company Limited (ICICIGI.NS)
+2025-04-14 13:38:31,251 - INFO - Training with 12 features for ICICIGI.NS
+2025-04-14 13:38:31,258 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:38:31,264 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:38:31,601 - INFO - Loaded fine-tuned model for ICICIGI.NS with matching features
+2025-04-14 13:38:31,601 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:38:31,607 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:38:31,608 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:38:39,833 - INFO - Analyzing Varun Beverages Limited (VBL.NS)
+2025-04-14 13:38:48,493 - INFO - Training with 12 features for VBL.NS
+2025-04-14 13:38:48,500 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:38:48,509 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:38:48,863 - INFO - Loaded fine-tuned model for VBL.NS with matching features
+2025-04-14 13:38:48,863 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:38:48,870 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:38:48,870 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:38:57,250 - INFO - Analyzing Aurobindo Pharma Limited (AUROPHARMA.NS)
+2025-04-14 13:39:01,220 - INFO - Training with 12 features for AUROPHARMA.NS
+2025-04-14 13:39:01,228 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:39:01,232 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:39:01,535 - INFO - Loaded fine-tuned model for AUROPHARMA.NS with matching features
+2025-04-14 13:39:01,536 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:39:01,542 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:39:01,543 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:39:08,841 - INFO - Analyzing Polycab India Limited (POLYCAB.NS)
+2025-04-14 13:39:16,679 - INFO - Training with 12 features for POLYCAB.NS
+2025-04-14 13:39:16,686 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:39:16,692 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:39:17,079 - INFO - Loaded fine-tuned model for POLYCAB.NS with matching features
+2025-04-14 13:39:17,080 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:39:17,088 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:39:17,089 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:39:25,388 - INFO - Analyzing IDBI Bank Limited (IDBI.NS)
+2025-04-14 13:39:32,387 - INFO - Training with 12 features for IDBI.NS
+2025-04-14 13:39:32,394 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:39:32,401 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:39:32,736 - INFO - Loaded fine-tuned model for IDBI.NS with matching features
+2025-04-14 13:39:32,737 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:39:32,742 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:39:32,742 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:39:40,890 - INFO - Analyzing Cholamandalam Investment and Finance Company Limited (CHOLAFIN.NS)
+2025-04-14 13:39:47,518 - INFO - Training with 12 features for CHOLAFIN.NS
+2025-04-14 13:39:47,525 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:39:47,534 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:39:47,851 - INFO - Loaded fine-tuned model for CHOLAFIN.NS with matching features
+2025-04-14 13:39:47,851 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:39:47,856 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:39:47,857 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:39:56,117 - INFO - Analyzing Lupin Limited (LUPIN.NS)
+2025-04-14 13:40:01,530 - INFO - Training with 12 features for LUPIN.NS
+2025-04-14 13:40:01,537 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:40:01,542 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:40:01,878 - INFO - Loaded fine-tuned model for LUPIN.NS with matching features
+2025-04-14 13:40:01,879 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:40:01,883 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:40:01,884 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:40:09,383 - INFO - Analyzing MRF Limited (MRF.NS)
+2025-04-14 13:40:14,943 - INFO - Training with 12 features for MRF.NS
+2025-04-14 13:40:14,949 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:40:14,953 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:40:15,222 - INFO - Loaded fine-tuned model for MRF.NS with matching features
+2025-04-14 13:40:15,222 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:40:15,226 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:40:15,227 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:40:23,402 - INFO - Analyzing Procter & Gamble Hygiene and Health Care Limited (PGHH.NS)
+2025-04-14 13:40:31,264 - INFO - Training with 12 features for PGHH.NS
+2025-04-14 13:40:31,271 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:40:31,278 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:40:31,622 - INFO - Loaded fine-tuned model for PGHH.NS with matching features
+2025-04-14 13:40:31,623 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:40:31,627 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:40:31,627 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:40:38,351 - INFO - Analyzing Bosch Limited (BOSCHLTD.NS)
+2025-04-14 13:40:45,471 - INFO - Training with 12 features for BOSCHLTD.NS
+2025-04-14 13:40:45,476 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:40:45,481 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:40:45,788 - INFO - Loaded fine-tuned model for BOSCHLTD.NS with matching features
+2025-04-14 13:40:45,788 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:40:45,794 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:40:45,794 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:40:52,495 - INFO - Analyzing Zydus Lifesciences Limited (ZYDUSLIFE.NS)
+2025-04-14 13:40:56,371 - INFO - Training with 12 features for ZYDUSLIFE.NS
+2025-04-14 13:40:56,376 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:40:56,381 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:40:57,930 - INFO - Loaded fine-tuned model for ZYDUSLIFE.NS with matching features
+2025-04-14 13:40:57,942 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:40:57,955 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:40:57,956 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:41:04,359 - INFO - Analyzing HDFC Asset Management Company Limited (HDFCAMC.NS)
+2025-04-14 13:41:08,563 - INFO - Training with 12 features for HDFCAMC.NS
+2025-04-14 13:41:08,568 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:41:08,613 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:41:08,910 - INFO - Loaded fine-tuned model for HDFCAMC.NS with matching features
+2025-04-14 13:41:08,911 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:41:08,917 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:41:08,918 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:41:17,395 - INFO - Analyzing Torrent Pharmaceuticals Limited (TORNTPHARM.NS)
+2025-04-14 13:41:25,481 - INFO - Training with 12 features for TORNTPHARM.NS
+2025-04-14 13:41:25,487 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:41:25,492 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:41:25,810 - INFO - Loaded fine-tuned model for TORNTPHARM.NS with matching features
+2025-04-14 13:41:25,810 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:41:25,816 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:41:25,816 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:41:33,669 - INFO - Analyzing NMDC Limited (NMDC.NS)
+2025-04-14 13:41:41,339 - INFO - Training with 12 features for NMDC.NS
+2025-04-14 13:41:41,344 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:41:41,348 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:41:41,678 - INFO - Loaded fine-tuned model for NMDC.NS with matching features
+2025-04-14 13:41:41,678 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:41:41,683 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:41:41,683 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:41:50,123 - INFO - Analyzing TVS Motor Company Limited (TVSMOTOR.NS)
+2025-04-14 13:41:57,913 - INFO - Training with 12 features for TVSMOTOR.NS
+2025-04-14 13:41:57,918 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:41:57,924 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:41:58,240 - INFO - Loaded fine-tuned model for TVSMOTOR.NS with matching features
+2025-04-14 13:41:58,240 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:41:58,245 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:41:58,245 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:42:05,134 - INFO - Analyzing SBI Cards and Payment Services Limited (SBICARD.NS)
+2025-04-14 13:42:09,022 - INFO - Training with 12 features for SBICARD.NS
+2025-04-14 13:42:09,035 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:42:09,044 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:42:09,371 - INFO - Loaded fine-tuned model for SBICARD.NS with matching features
+2025-04-14 13:42:09,371 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:42:09,377 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:42:09,377 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:42:16,790 - INFO - Analyzing Yes Bank Limited (YESBANK.NS)
+2025-04-14 13:42:24,029 - INFO - Training with 12 features for YESBANK.NS
+2025-04-14 13:42:24,034 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:42:24,038 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:42:24,353 - INFO - Loaded fine-tuned model for YESBANK.NS with matching features
+2025-04-14 13:42:24,353 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:42:24,358 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:42:24,358 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:42:31,531 - INFO - Analyzing Bajaj Holdings & Investment Limited (BAJAJHLDNG.NS)
+2025-04-14 13:42:37,350 - INFO - Training with 12 features for BAJAJHLDNG.NS
+2025-04-14 13:42:37,357 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:42:37,362 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:42:37,733 - INFO - Loaded fine-tuned model for BAJAJHLDNG.NS with matching features
+2025-04-14 13:42:37,733 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:42:37,740 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:42:37,740 - INFO - Prediction window shape: (60, 12)
+2025-04-14 13:42:44,366 - INFO - Analyzing Union Bank of India (UNIONBANK.NS)
+2025-04-14 13:42:52,240 - INFO - Training with 12 features for UNIONBANK.NS
+2025-04-14 13:42:52,246 - INFO - Scaled data shape: (1240, 12)
+2025-04-14 13:42:52,251 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-14 13:42:52,574 - INFO - Loaded fine-tuned model for UNIONBANK.NS with matching features
+2025-04-14 13:42:52,574 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-14 13:42:52,580 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-14 13:42:52,580 - INFO - Prediction window shape: (60, 12)

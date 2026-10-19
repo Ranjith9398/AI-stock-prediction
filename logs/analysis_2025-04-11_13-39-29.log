@@ -1,0 +1,20 @@
+2025-04-11 13:39:31,593 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-11 13:39:32,593 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:39:32,613 - INFO - Training with 12 features for RELIANCE.NS
+2025-04-11 13:39:32,617 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:39:32,625 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:39:32,858 - INFO - Created new model architecture for 12 features
+2025-04-11 13:40:08,555 - INFO - Successfully trained and saved model for RELIANCE.NS
+2025-04-11 13:40:08,556 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:40:08,559 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:40:08,559 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:40:13,965 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-11 13:40:14,932 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:40:14,951 - INFO - Training with 12 features for SBIN.NS
+2025-04-11 13:40:14,956 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:40:14,962 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:40:15,066 - INFO - Created new model architecture for 12 features
+2025-04-11 13:40:51,644 - INFO - Successfully trained and saved model for SBIN.NS
+2025-04-11 13:40:51,644 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:40:51,648 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:40:51,650 - INFO - Prediction window shape: (60, 12)

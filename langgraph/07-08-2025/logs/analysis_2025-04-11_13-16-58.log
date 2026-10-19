@@ -1,0 +1,61 @@
+2025-04-11 13:16:58,520 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-11 13:16:59,693 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:16:59,877 - INFO - Loaded fine-tuned model for RELIANCE.NS
+2025-04-11 13:16:59,903 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:00,406 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-04-11 13:17:01,356 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:01,471 - INFO - Loaded fine-tuned model for TCS.NS
+2025-04-11 13:17:01,485 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:01,925 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-04-11 13:17:02,854 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:02,962 - INFO - Loaded fine-tuned model for HDFCBANK.NS
+2025-04-11 13:17:02,978 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:03,819 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-04-11 13:17:04,706 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:04,813 - INFO - Loaded fine-tuned model for INFY.NS
+2025-04-11 13:17:04,829 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:05,287 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-04-11 13:17:06,197 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:06,314 - INFO - Loaded fine-tuned model for HINDUNILVR.NS
+2025-04-11 13:17:06,330 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:08,793 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-04-11 13:17:09,732 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:09,841 - INFO - Loaded fine-tuned model for ICICIBANK.NS
+2025-04-11 13:17:09,858 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:10,381 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-04-11 13:17:11,403 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:11,516 - INFO - Loaded fine-tuned model for KOTAKBANK.NS
+2025-04-11 13:17:11,532 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:11,994 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-11 13:17:13,018 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:13,125 - INFO - Loaded fine-tuned model for SBIN.NS
+2025-04-11 13:17:13,139 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:13,606 - INFO - Analyzing Bajaj Finance Limited (BAJFINANCE.NS)
+2025-04-11 13:17:14,874 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:14,983 - INFO - Loaded fine-tuned model for BAJFINANCE.NS
+2025-04-11 13:17:14,999 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:15,547 - INFO - Analyzing Bharti Airtel Limited (BHARTIARTL.NS)
+2025-04-11 13:17:16,521 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:16,632 - INFO - Loaded fine-tuned model for BHARTIARTL.NS
+2025-04-11 13:17:16,647 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:19,098 - INFO - Analyzing Adani Ports and Special Economic Zone Limited (ADANIPORTS.NS)
+2025-04-11 13:17:20,082 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:20,192 - INFO - Loaded fine-tuned model for ADANIPORTS.NS
+2025-04-11 13:17:20,206 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:20,772 - INFO - Analyzing Asian Paints Limited (ASIANPAINT.NS)
+2025-04-11 13:17:21,878 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:21,989 - INFO - Loaded fine-tuned model for ASIANPAINT.NS
+2025-04-11 13:17:22,005 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:22,490 - INFO - Analyzing Axis Bank Limited (AXISBANK.NS)
+2025-04-11 13:17:23,490 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:23,597 - INFO - Loaded fine-tuned model for AXISBANK.NS
+2025-04-11 13:17:23,613 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:24,063 - INFO - Analyzing Bajaj Auto Limited (BAJAJ-AUTO.NS)
+2025-04-11 13:17:25,026 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:25,143 - INFO - Loaded fine-tuned model for BAJAJ-AUTO.NS
+2025-04-11 13:17:25,159 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:25,624 - INFO - Analyzing Bharat Petroleum Corporation Limited (BPCL.NS)
+2025-04-11 13:17:26,569 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:17:26,678 - INFO - Loaded fine-tuned model for BPCL.NS
+2025-04-11 13:17:26,695 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:17:29,253 - INFO - Analyzing Britannia Industries Limited (BRITANNIA.NS)

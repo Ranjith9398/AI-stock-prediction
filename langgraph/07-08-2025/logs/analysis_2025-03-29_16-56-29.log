@@ -1,0 +1,30 @@
+2025-03-29 16:56:30,596 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-03-29 16:56:31,687 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-03-29 16:56:32,639 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 16:56:33,274 - INFO - Loaded fine-tuned model for RELIANCE.NS
+2025-03-29 16:56:36,926 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-03-29 16:56:38,138 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-03-29 16:56:38,828 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 16:56:39,468 - INFO - Loaded fine-tuned model for TCS.NS
+2025-03-29 16:56:43,106 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-03-29 16:56:44,283 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-03-29 16:56:44,975 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 16:56:45,617 - INFO - Loaded fine-tuned model for HDFCBANK.NS
+2025-03-29 16:56:49,141 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-03-29 16:56:50,222 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-03-29 16:56:50,907 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 16:56:51,813 - INFO - Loaded fine-tuned model for INFY.NS
+2025-03-29 16:56:56,936 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-03-29 16:56:57,801 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-03-29 16:56:58,460 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 16:56:59,102 - INFO - Loaded fine-tuned model for HINDUNILVR.NS
+2025-03-29 16:57:02,919 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-03-29 16:57:04,355 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-03-29 16:57:05,022 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 16:57:05,769 - INFO - Loaded fine-tuned model for ICICIBANK.NS
+2025-03-29 16:57:09,787 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-03-29 16:57:10,906 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}
+2025-03-29 16:57:11,561 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 16:57:12,217 - INFO - Loaded fine-tuned model for KOTAKBANK.NS
+2025-03-29 16:57:16,534 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-03-29 16:57:17,458 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'apiKeyInvalid', 'message': 'Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.'}

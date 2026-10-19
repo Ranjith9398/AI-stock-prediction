@@ -1,0 +1,74 @@
+2025-04-16 13:40:01.627245: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1744791001.661450   88895 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1744791001.672110   88895 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+W0000 00:00:1744791001.710565   88895 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1744791001.710649   88895 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1744791001.710654   88895 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1744791001.710658   88895 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+2025-04-16 13:40:01.721443: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-04-16 13:40:14,575 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-16 13:40:14,575 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-16 13:40:15,011 - WARNING - Zero volume found in RELIANCE.NS data, replacing with average volume
+2025-04-16 13:40:15,011 - WARNING - Zero volume found in RELIANCE.NS data, replacing with average volume
+2025-04-16 13:40:15,041 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:40:15,041 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:40:15,261 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:40:15,261 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-16 13:40:15,261 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:40:15,261 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-16 13:40:15,273 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:40:15,273 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:40:15,295 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:40:15,295 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:40:15.315342: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2025-04-16 13:40:15,744 - WARNING - Zero volume found in SBIN.NS data, replacing with average volume
+2025-04-16 13:40:15,744 - WARNING - Zero volume found in SBIN.NS data, replacing with average volume
+2025-04-16 13:40:15,853 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:40:15,853 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:40:16,255 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:40:16,255 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:40:16,266 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:40:16,266 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:40:16,349 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:40:16,349 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:40:16,374 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-16 13:40:16,391 - INFO - Loaded fine-tuned model for RELIANCE.NS with matching features
+2025-04-16 13:40:16,391 - INFO - Loaded fine-tuned model for RELIANCE.NS with matching features
+2025-04-16 13:40:16,392 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:40:16,392 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:40:16,412 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:40:16,412 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:40:16,419 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:40:16,419 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:40:17,067 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-16 13:40:17,094 - INFO - Loaded fine-tuned model for SBIN.NS with matching features
+2025-04-16 13:40:17,094 - INFO - Loaded fine-tuned model for SBIN.NS with matching features
+2025-04-16 13:40:17,105 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:40:17,105 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:40:17,145 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:40:17,145 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:40:17,148 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:40:17,148 - INFO - Prediction window shape: (60, 20)
+
+================================================================================
+  STOCK ANALYSIS STARTED AT 2025-04-16 13:40:10
+================================================================================
+
+Running in TEST MODE with limited stocks...
+Analyzing 2 stocks. This may take a while...
+Traceback (most recent call last):
+  File "/home/voidx/AIstg/final/mutli/AIstg_v1.1.py", line 1426, in <module>
+    main()
+  File "/home/voidx/AIstg/final/mutli/AIstg_v1.1.py", line 1280, in main
+    results, failed_tickers = parallel_stock_analysis(nifty50_tickers)
+  File "/home/voidx/AIstg/final/mutli/AIstg_v1.1.py", line 976, in parallel_stock_analysis
+    for future in concurrent.futures.as_completed(future_to_ticker):
+  File "/usr/lib/python3.10/concurrent/futures/_base.py", line 245, in as_completed
+    waiter.event.wait(wait_timeout)
+  File "/usr/lib/python3.10/threading.py", line 607, in wait
+    signaled = self._cond.wait(timeout)
+  File "/usr/lib/python3.10/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt

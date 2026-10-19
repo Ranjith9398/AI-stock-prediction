@@ -1,0 +1,223 @@
+2025-04-16 13:45:09.429849: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1744791309.466322   90221 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1744791309.476109   90221 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+W0000 00:00:1744791309.504106   90221 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1744791309.504163   90221 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1744791309.504168   90221 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1744791309.504172   90221 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+2025-04-16 13:45:09.511963: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-04-16 13:45:18,392 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-16 13:45:18,392 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-16 13:45:19,489 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-16 13:45:19,489 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-16 13:45:19,532 - WARNING - Zero volume found in SBIN.NS data, replacing with average volume
+2025-04-16 13:45:19,532 - WARNING - Zero volume found in SBIN.NS data, replacing with average volume
+2025-04-16 13:45:19,565 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:45:19,565 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:45:19,782 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:45:19,782 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:45:19,789 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:45:19,789 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:45:19,857 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:45:19,857 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:45:19,858 - WARNING - Saved features don't match current features for SBIN.NS. Training new model.
+2025-04-16 13:45:19,858 - WARNING - Saved features don't match current features for SBIN.NS. Training new model.
+2025-04-16 13:45:19.862251: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2025-04-16 13:45:20,121 - INFO - Created new model architecture for 20 features
+2025-04-16 13:45:20,121 - INFO - Created new model architecture for 20 features
+2025-04-16 13:45:20,305 - WARNING - Zero volume found in RELIANCE.NS data, replacing with average volume
+2025-04-16 13:45:20,305 - WARNING - Zero volume found in RELIANCE.NS data, replacing with average volume
+2025-04-16 13:45:20,403 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:45:20,403 - WARNING - Using known invalid API key. Please update NEWS_API_KEY in the code or set as environment variable.
+2025-04-16 13:45:20,866 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:45:20,866 - INFO - Selected 20 features and reduced to 1 components
+2025-04-16 13:45:20,882 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:45:20,882 - INFO - Scaled data shape: (1240, 20)
+2025-04-16 13:45:21,063 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:45:21,063 - INFO - Training data shape: X=(1180, 60, 20), y=(1180,)
+2025-04-16 13:45:21,961 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-16 13:45:21,985 - INFO - Loaded fine-tuned model for RELIANCE.NS with matching features
+2025-04-16 13:45:21,985 - INFO - Loaded fine-tuned model for RELIANCE.NS with matching features
+2025-04-16 13:45:21,989 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:45:21,989 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:45:22,010 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:45:22,010 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:45:22,016 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:45:22,016 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:45:39,919 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:45:44,071 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:45:50,323 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:45:56,580 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:02,960 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:09,284 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:13,078 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:19,272 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:25,515 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:31,818 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:38,356 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:42,840 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:49,542 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:46:55,770 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:47:02,081 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:47:02,449 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-16 13:47:02,460 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-16 13:47:02,551 - INFO - Successfully trained and saved model for SBIN.NS
+2025-04-16 13:47:02,551 - INFO - Successfully trained and saved model for SBIN.NS
+2025-04-16 13:47:02,551 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'MA_Short', 'MA_Long']
+2025-04-16 13:47:02,551 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'MA_Short', 'MA_Long']
+2025-04-16 13:47:02,556 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:47:02,556 - INFO - Prediction data scaled shape: (1240, 20)
+2025-04-16 13:47:02,556 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:47:02,556 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:47:06,363 - INFO - Backtesting strategy with 20 features
+2025-04-16 13:47:06,363 - INFO - Backtesting strategy with 20 features
+2025-04-16 13:47:06,364 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:47:06,364 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'Cumulative_Return', 'MA_Short']
+2025-04-16 13:47:06,367 - INFO - Prediction data scaled shape: (248, 20)
+2025-04-16 13:47:06,367 - INFO - Prediction data scaled shape: (248, 20)
+2025-04-16 13:47:06,368 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:47:06,368 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:47:09,667 - INFO - Explaining predictions with 20 features
+2025-04-16 13:47:09,667 - INFO - Explaining predictions with 20 features
+2025-04-16 13:47:09,669 - WARNING - SHAP DeepExplainer may not be compatible with LSTM, using fallback
+2025-04-16 13:47:09,669 - WARNING - SHAP DeepExplainer may not be compatible with LSTM, using fallback
+2025-04-16 13:47:09,719 - INFO - Monitoring model performance with 20 features
+2025-04-16 13:47:09,719 - INFO - Monitoring model performance with 20 features
+
+================================================================================
+  STOCK ANALYSIS STARTED AT 2025-04-16 13:45:16
+================================================================================
+
+Running in TEST MODE with limited stocks...
+Analyzing 2 stocks. This may take a while...
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m2s[0m 525ms/step[1m2/5[0m [32m━━━━━━━━[0m[37m━━━━━━━━━━━━[0m [1m0s[0m 61ms/step [1m4/5[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 52ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 51ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 65ms/step[1m3/5[0m [32m━━━━━━━━━━━━[0m[37m━━━━━━━━[0m [1m0s[0m 50ms/step[1m4/5[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 52ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 54ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 78ms/step[1m2/5[0m [32m━━━━━━━━[0m[37m━━━━━━━━━━━━[0m [1m0s[0m 50ms/step[1m4/5[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 49ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 49ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 64ms/step[1m2/5[0m [32m━━━━━━━━[0m[37m━━━━━━━━━━━━[0m [1m0s[0m 52ms/step[1m4/5[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 50ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 50ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 68ms/step[1m3/5[0m [32m━━━━━━━━━━━━[0m[37m━━━━━━━━[0m [1m0s[0m 50ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 45ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 49ms/step
+2025-04-16 13:47:09,027 - INFO - Visualizing results with 30 predictions
+2025-04-16 13:47:09,027 - INFO - Visualizing results with 30 predictions
+2025-04-16 13:47:09,256 - INFO - Saved stock analysis visualization to stock_analysis.html
+2025-04-16 13:47:09,256 - INFO - Saved stock analysis visualization to stock_analysis.html
+2025-04-16 13:47:09,323 - INFO - Saved feature importance visualization to feature_importance.html
+2025-04-16 13:47:09,323 - INFO - Saved feature importance visualization to feature_importance.html
+2025-04-16 13:47:09,324 - INFO - Performance metrics for RELIANCE.NS: {'mse_scores': [np.float64(1136486.433000965), np.float64(1380814.2701603028), np.float64(1296976.1211199756), np.float64(1917194.50876533), np.float64(1667531.5716974703)], 'mae_scores': [np.float64(1061.6159351864665), np.float64(1173.9048372433695), np.float64(1136.7618186715931), np.float64(1380.7115507234985), np.float64(1288.8212317791704)], 'avg_mse': np.float64(1479800.5809488087), 'avg_mae': np.float64(1208.3630747208194), 'mse_std': np.float64(278439.95761909446), 'mae_std': np.float64(113.16036866064583)}
+2025-04-16 13:47:09,324 - INFO - Performance metrics for RELIANCE.NS: {'mse_scores': [np.float64(1136486.433000965), np.float64(1380814.2701603028), np.float64(1296976.1211199756), np.float64(1917194.50876533), np.float64(1667531.5716974703)], 'mae_scores': [np.float64(1061.6159351864665), np.float64(1173.9048372433695), np.float64(1136.7618186715931), np.float64(1380.7115507234985), np.float64(1288.8212317791704)], 'avg_mse': np.float64(1479800.5809488087), 'avg_mae': np.float64(1208.3630747208194), 'mse_std': np.float64(278439.95761909446), 'mae_std': np.float64(113.16036866064583)}
+2025-04-16 13:47:09,324 - INFO - Backtesting strategy with 20 features
+2025-04-16 13:47:09,324 - INFO - Backtesting strategy with 20 features
+2025-04-16 13:47:09,324 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'MA_Short', 'MA_Long']
+2025-04-16 13:47:09,324 - INFO - Predicting with 20 features: ['Open', 'High', 'Low', 'SMA_20', 'SMA_50', 'EMA_20', 'EMA_50', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'KC_Upper', 'KC_Lower', 'KC_Mid', 'VWAP', 'Ichimoku_A', 'Ichimoku_B', 'Ichimoku_Base', 'Ichimoku_Conversion', 'MA_Short', 'MA_Long']
+2025-04-16 13:47:09,328 - INFO - Prediction data scaled shape: (248, 20)
+2025-04-16 13:47:09,328 - INFO - Prediction data scaled shape: (248, 20)
+2025-04-16 13:47:09,328 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:47:09,328 - INFO - Prediction window shape: (60, 20)
+2025-04-16 13:47:12,724 - INFO - Explaining predictions with 20 features
+2025-04-16 13:47:12,724 - INFO - Explaining predictions with 20 features
+2025-04-16 13:47:12,726 - WARNING - SHAP DeepExplainer may not be compatible with LSTM, using fallback
+2025-04-16 13:47:12,726 - WARNING - SHAP DeepExplainer may not be compatible with LSTM, using fallback
+2025-04-16 13:47:12,726 - INFO - Monitoring model performance with 20 features
+2025-04-16 13:47:12,726 - INFO - Monitoring model performance with 20 features
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m2s[0m 528ms/step[1m2/5[0m [32m━━━━━━━━[0m[37m━━━━━━━━━━━━[0m [1m0s[0m 59ms/step [1m3/5[0m [32m━━━━━━━━━━━━[0m[37m━━━━━━━━[0m [1m0s[0m 55ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 48ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 53ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 68ms/step[1m2/5[0m [32m━━━━━━━━[0m[37m━━━━━━━━━━━━[0m [1m0s[0m 51ms/step[1m4/5[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 50ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 50ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 68ms/step[1m3/5[0m [32m━━━━━━━━━━━━[0m[37m━━━━━━━━[0m [1m0s[0m 50ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 45ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 50ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 68ms/step[1m2/5[0m [32m━━━━━━━━[0m[37m━━━━━━━━━━━━[0m [1m0s[0m 50ms/step[1m4/5[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 49ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 49ms/step
+[1m1/5[0m [32m━━━━[0m[37m━━━━━━━━━━━━━━━━[0m [1m0s[0m 63ms/step[1m3/5[0m [32m━━━━━━━━━━━━[0m[37m━━━━━━━━[0m [1m0s[0m 48ms/step[1m4/5[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 49ms/step[1m5/5[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 49ms/step
+2025-04-16 13:47:14,832 - INFO - Visualizing results with 30 predictions
+2025-04-16 13:47:14,832 - INFO - Visualizing results with 30 predictions
+2025-04-16 13:47:14,939 - INFO - Saved stock analysis visualization to stock_analysis.html
+2025-04-16 13:47:14,939 - INFO - Saved stock analysis visualization to stock_analysis.html
+2025-04-16 13:47:14,998 - INFO - Saved feature importance visualization to feature_importance.html
+2025-04-16 13:47:14,998 - INFO - Saved feature importance visualization to feature_importance.html
+2025-04-16 13:47:14,999 - INFO - Performance metrics for SBIN.NS: {'mse_scores': [np.float64(182907.2991392701), np.float64(231841.27821232675), np.float64(303307.65156029596), np.float64(503826.54756245087), np.float64(616585.2342339586)], 'mae_scores': [np.float64(426.31128972332493), np.float64(480.37328462354503), np.float64(549.8376990654228), np.float64(703.9409515716717), np.float64(784.0872619944076)], 'avg_mse': np.float64(367693.60214166046), 'avg_mae': np.float64(588.9100973956745), 'mse_std': np.float64(165666.29450860881), 'mae_std': np.float64(134.96035513271323)}
+2025-04-16 13:47:14,999 - INFO - Performance metrics for SBIN.NS: {'mse_scores': [np.float64(182907.2991392701), np.float64(231841.27821232675), np.float64(303307.65156029596), np.float64(503826.54756245087), np.float64(616585.2342339586)], 'mae_scores': [np.float64(426.31128972332493), np.float64(480.37328462354503), np.float64(549.8376990654228), np.float64(703.9409515716717), np.float64(784.0872619944076)], 'avg_mse': np.float64(367693.60214166046), 'avg_mae': np.float64(588.9100973956745), 'mse_std': np.float64(165666.29450860881), 'mae_std': np.float64(134.96035513271323)}
+
+================================================================================
+ANALYSIS SUMMARY: 2 stocks analyzed successfully
+Buy recommendations: 0
+Sell recommendations: 2
+Hold recommendations: 0
+================================================================================
+
+All stock data saved to OUTPUT/all_stock_data_2025-04-16_13-47-14.txt
+
+### Top Buy Recommendations ###
+No buy recommendations at this time.
+
+### Top Sell Recommendations ###
+1. **Reliance Industries Limited (RELIANCE.NS)**
+   - Current Price: $1231.20
+   - Predicted Price in 30 Days: $865.76
+   - Predicted Percentage Change: -29.68%
+   - Recommendation: ⚠️ Sell
+   - Day-by-Day Predictions:
+     📅 Day 1 (2025-04-17): $1108.08
+     📅 Day 2 (2025-04-18): $997.27
+     📅 Day 3 (2025-04-19): $932.11
+     📅 Day 4 (2025-04-20): $916.96
+     📅 Day 5 (2025-04-21): $900.20
+     📅 Day 6 (2025-04-22): $882.14
+     📅 Day 7 (2025-04-23): $879.43
+     📅 Day 8 (2025-04-24): $873.85
+     📅 Day 9 (2025-04-25): $878.10
+     📅 Day 10 (2025-04-26): $872.01
+     📅 Day 11 (2025-04-27): $869.36
+     📅 Day 12 (2025-04-28): $867.74
+     📅 Day 13 (2025-04-29): $867.65
+     📅 Day 14 (2025-04-30): $864.75
+     📅 Day 15 (2025-05-01): $861.44
+     📅 Day 16 (2025-05-02): $858.90
+     📅 Day 17 (2025-05-03): $859.21
+     📅 Day 18 (2025-05-04): $862.99
+     📅 Day 19 (2025-05-05): $865.03
+     📅 Day 20 (2025-05-06): $865.53
+     📅 Day 21 (2025-05-07): $864.39
+     📅 Day 22 (2025-05-08): $866.56
+     📅 Day 23 (2025-05-09): $864.54
+     📅 Day 24 (2025-05-10): $867.04
+     📅 Day 25 (2025-05-11): $866.98
+     📅 Day 26 (2025-05-12): $866.37
+     📅 Day 27 (2025-05-13): $862.92
+     📅 Day 28 (2025-05-14): $862.62
+     📅 Day 29 (2025-05-15): $863.75
+     📅 Day 30 (2025-05-16): $865.76
+2. **State Bank of India (SBIN.NS)**
+   - Current Price: $767.60
+   - Predicted Price in 30 Days: $668.20
+   - Predicted Percentage Change: -12.95%
+   - Recommendation: ⚠️ Sell
+   - Day-by-Day Predictions:
+     📅 Day 1 (2025-04-17): $684.36
+     📅 Day 2 (2025-04-18): $682.68
+     📅 Day 3 (2025-04-19): $683.35
+     📅 Day 4 (2025-04-20): $682.61
+     📅 Day 5 (2025-04-21): $682.85
+     📅 Day 6 (2025-04-22): $679.25
+     📅 Day 7 (2025-04-23): $680.78
+     📅 Day 8 (2025-04-24): $678.31
+     📅 Day 9 (2025-04-25): $677.90
+     📅 Day 10 (2025-04-26): $677.53
+     📅 Day 11 (2025-04-27): $675.25
+     📅 Day 12 (2025-04-28): $675.27
+     📅 Day 13 (2025-04-29): $674.20
+     📅 Day 14 (2025-04-30): $673.77
+     📅 Day 15 (2025-05-01): $673.20
+     📅 Day 16 (2025-05-02): $671.38
+     📅 Day 17 (2025-05-03): $671.36
+     📅 Day 18 (2025-05-04): $668.99
+     📅 Day 19 (2025-05-05): $670.56
+     📅 Day 20 (2025-05-06): $669.67
+     📅 Day 21 (2025-05-07): $670.84
+     📅 Day 22 (2025-05-08): $669.95
+     📅 Day 23 (2025-05-09): $669.30
+     📅 Day 24 (2025-05-10): $670.76
+     📅 Day 25 (2025-05-11): $670.58
+     📅 Day 26 (2025-05-12): $669.03
+     📅 Day 27 (2025-05-13): $670.14
+     📅 Day 28 (2025-05-14): $671.63
+     📅 Day 29 (2025-05-15): $669.14
+     📅 Day 30 (2025-05-16): $668.20
+Recommendations saved to OUTPUT/recommendations_2025-04-16_13-47-14.txt
+
+Analysis completed successfully!

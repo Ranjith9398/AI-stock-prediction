@@ -1,0 +1,17 @@
+2025-04-11 13:22:57,179 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-11 13:22:58,139 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:22:58,334 - INFO - Loaded fine-tuned model for RELIANCE.NS
+2025-04-11 13:22:58,353 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:22:58,872 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-04-11 13:22:59,724 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:22:59,847 - INFO - Loaded fine-tuned model for TCS.NS
+2025-04-11 13:22:59,866 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:23:00,472 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-04-11 13:23:01,419 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:23:01,526 - INFO - Loaded fine-tuned model for HDFCBANK.NS
+2025-04-11 13:23:01,540 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:23:01,959 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-04-11 13:23:02,973 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:23:03,079 - INFO - Loaded fine-tuned model for INFY.NS
+2025-04-11 13:23:03,094 - ERROR - Error in predict_future_prices: operands could not be broadcast together with shapes (1240,12) (4,) (1240,12) 
+2025-04-11 13:23:03,568 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)

@@ -1,0 +1,217 @@
+2025-04-11 11:43:32,945 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-11 11:43:44,708 - INFO - Loaded fine-tuned model for RELIANCE.NS
+2025-04-11 11:43:49,619 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-04-11 11:43:55,879 - INFO - Loaded fine-tuned model for TCS.NS
+2025-04-11 11:44:00,630 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-04-11 11:44:07,520 - INFO - Loaded fine-tuned model for HDFCBANK.NS
+2025-04-11 11:44:12,635 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-04-11 11:44:18,554 - INFO - Loaded fine-tuned model for INFY.NS
+2025-04-11 11:44:23,485 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-04-11 11:44:31,707 - INFO - Loaded fine-tuned model for HINDUNILVR.NS
+2025-04-11 11:44:39,014 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-04-11 11:44:49,301 - INFO - Loaded fine-tuned model for ICICIBANK.NS
+2025-04-11 11:44:55,773 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-04-11 11:45:02,108 - INFO - Loaded fine-tuned model for KOTAKBANK.NS
+2025-04-11 11:45:06,405 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-11 11:45:11,951 - INFO - Loaded fine-tuned model for SBIN.NS
+2025-04-11 11:45:15,590 - INFO - Analyzing Bajaj Finance Limited (BAJFINANCE.NS)
+2025-04-11 11:45:20,994 - INFO - Loaded fine-tuned model for BAJFINANCE.NS
+2025-04-11 11:45:25,106 - INFO - Analyzing Bharti Airtel Limited (BHARTIARTL.NS)
+2025-04-11 11:45:31,816 - INFO - Loaded fine-tuned model for BHARTIARTL.NS
+2025-04-11 11:45:38,963 - INFO - Analyzing Adani Ports and Special Economic Zone Limited (ADANIPORTS.NS)
+2025-04-11 11:45:48,123 - INFO - Loaded fine-tuned model for ADANIPORTS.NS
+2025-04-11 11:46:02,473 - INFO - Analyzing Asian Paints Limited (ASIANPAINT.NS)
+2025-04-11 11:46:10,932 - INFO - Loaded fine-tuned model for ASIANPAINT.NS
+2025-04-11 11:46:16,244 - INFO - Analyzing Axis Bank Limited (AXISBANK.NS)
+2025-04-11 11:46:25,690 - INFO - Loaded fine-tuned model for AXISBANK.NS
+2025-04-11 11:46:31,687 - INFO - Analyzing Bajaj Auto Limited (BAJAJ-AUTO.NS)
+2025-04-11 11:46:38,828 - INFO - Loaded fine-tuned model for BAJAJ-AUTO.NS
+2025-04-11 11:46:43,790 - INFO - Analyzing Bharat Petroleum Corporation Limited (BPCL.NS)
+2025-04-11 11:46:51,431 - INFO - Loaded fine-tuned model for BPCL.NS
+2025-04-11 11:46:59,752 - INFO - Analyzing Britannia Industries Limited (BRITANNIA.NS)
+2025-04-11 11:47:07,954 - INFO - Loaded fine-tuned model for BRITANNIA.NS
+2025-04-11 11:47:13,121 - INFO - Analyzing Cipla Limited (CIPLA.NS)
+2025-04-11 11:47:19,351 - INFO - Loaded fine-tuned model for CIPLA.NS
+2025-04-11 11:47:25,572 - INFO - Analyzing Coal India Limited (COALINDIA.NS)
+2025-04-11 11:47:36,350 - INFO - Loaded fine-tuned model for COALINDIA.NS
+2025-04-11 11:47:42,144 - INFO - Analyzing Divi's Laboratories Limited (DIVISLAB.NS)
+2025-04-11 11:47:48,942 - INFO - Loaded fine-tuned model for DIVISLAB.NS
+2025-04-11 11:47:55,746 - INFO - Analyzing Dr. Reddy's Laboratories Limited (DRREDDY.NS)
+2025-04-11 11:48:04,016 - INFO - Loaded fine-tuned model for DRREDDY.NS
+2025-04-11 11:48:11,270 - INFO - Analyzing Eicher Motors Limited (EICHERMOT.NS)
+2025-04-11 11:48:17,579 - INFO - Loaded fine-tuned model for EICHERMOT.NS
+2025-04-11 11:48:23,951 - INFO - Analyzing Grasim Industries Limited (GRASIM.NS)
+2025-04-11 11:48:31,732 - INFO - Loaded fine-tuned model for GRASIM.NS
+2025-04-11 11:48:37,776 - INFO - Analyzing HCL Technologies Limited (HCLTECH.NS)
+2025-04-11 11:48:49,033 - INFO - Loaded fine-tuned model for HCLTECH.NS
+2025-04-11 11:48:55,981 - INFO - Analyzing Hero MotoCorp Limited (HEROMOTOCO.NS)
+2025-04-11 11:49:03,947 - INFO - Loaded fine-tuned model for HEROMOTOCO.NS
+2025-04-11 11:49:10,420 - INFO - Analyzing HDFC Life Insurance Company Limited (HDFCLIFE.NS)
+2025-04-11 11:49:16,408 - INFO - Loaded fine-tuned model for HDFCLIFE.NS
+2025-04-11 11:49:23,874 - INFO - Analyzing ITC Limited (ITC.NS)
+2025-04-11 11:49:32,218 - INFO - Loaded fine-tuned model for ITC.NS
+2025-04-11 11:49:38,378 - INFO - Analyzing IndusInd Bank Limited (INDUSINDBK.NS)
+2025-04-11 11:49:47,410 - INFO - Loaded fine-tuned model for INDUSINDBK.NS
+2025-04-11 11:49:53,978 - INFO - Analyzing JSW Steel Limited (JSWSTEEL.NS)
+2025-04-11 11:50:01,190 - INFO - Loaded fine-tuned model for JSWSTEEL.NS
+2025-04-11 11:50:08,607 - INFO - Analyzing Larsen & Toubro Limited (LT.NS)
+2025-04-11 11:50:15,888 - INFO - Loaded fine-tuned model for LT.NS
+2025-04-11 11:50:22,161 - INFO - Analyzing Maruti Suzuki India Limited (MARUTI.NS)
+2025-04-11 11:50:30,653 - INFO - Loaded fine-tuned model for MARUTI.NS
+2025-04-11 11:50:38,997 - INFO - Analyzing Nestlé India Limited (NESTLEIND.NS)
+2025-04-11 11:50:44,195 - INFO - Loaded fine-tuned model for NESTLEIND.NS
+2025-04-11 11:50:50,670 - INFO - Analyzing NTPC Limited (NTPC.NS)
+2025-04-11 11:50:58,958 - INFO - Loaded fine-tuned model for NTPC.NS
+2025-04-11 11:51:04,786 - INFO - Analyzing Oil and Natural Gas Corporation Limited (ONGC.NS)
+2025-04-11 11:51:11,907 - INFO - Loaded fine-tuned model for ONGC.NS
+2025-04-11 11:51:17,801 - INFO - Analyzing Power Grid Corporation of India Limited (POWERGRID.NS)
+2025-04-11 11:51:27,772 - INFO - Loaded fine-tuned model for POWERGRID.NS
+2025-04-11 11:51:32,967 - INFO - Analyzing SBI Life Insurance Company Limited (SBILIFE.NS)
+2025-04-11 11:51:40,310 - INFO - Loaded fine-tuned model for SBILIFE.NS
+2025-04-11 11:51:48,216 - INFO - Analyzing Sun Pharmaceutical Industries Limited (SUNPHARMA.NS)
+2025-04-11 11:51:54,098 - INFO - Loaded fine-tuned model for SUNPHARMA.NS
+2025-04-11 11:52:01,008 - INFO - Analyzing Tata Consumer Products Limited (TATACONSUM.NS)
+2025-04-11 11:52:08,618 - INFO - Loaded fine-tuned model for TATACONSUM.NS
+2025-04-11 11:52:13,815 - INFO - Analyzing Tata Motors Limited (TATAMOTORS.NS)
+2025-04-11 11:52:19,546 - INFO - Loaded fine-tuned model for TATAMOTORS.NS
+2025-04-11 11:52:25,597 - INFO - Analyzing Tata Steel Limited (TATASTEEL.NS)
+2025-04-11 11:52:32,899 - INFO - Loaded fine-tuned model for TATASTEEL.NS
+2025-04-11 11:52:38,634 - INFO - Analyzing Tech Mahindra Limited (TECHM.NS)
+2025-04-11 11:52:45,874 - INFO - Loaded fine-tuned model for TECHM.NS
+2025-04-11 11:52:55,005 - INFO - Analyzing Titan Company Limited (TITAN.NS)
+2025-04-11 11:53:04,170 - INFO - Loaded fine-tuned model for TITAN.NS
+2025-04-11 11:53:10,384 - INFO - Analyzing UltraTech Cement Limited (ULTRACEMCO.NS)
+2025-04-11 11:53:17,285 - INFO - Loaded fine-tuned model for ULTRACEMCO.NS
+2025-04-11 11:53:22,826 - INFO - Analyzing Wipro Limited (WIPRO.NS)
+2025-04-11 11:53:29,906 - INFO - Loaded fine-tuned model for WIPRO.NS
+2025-04-11 11:53:37,183 - INFO - Analyzing Mahindra & Mahindra Limited (M&M.NS)
+2025-04-11 11:53:45,880 - INFO - Loaded fine-tuned model for M&M.NS
+2025-04-11 11:53:52,552 - INFO - Analyzing Adani Enterprises Limited (ADANIENT.NS)
+2025-04-11 11:54:01,005 - INFO - Loaded fine-tuned model for ADANIENT.NS
+2025-04-11 11:54:08,160 - INFO - Analyzing Apollo Hospitals Enterprise Limited (APOLLOHOSP.NS)
+2025-04-11 11:54:13,085 - INFO - Loaded fine-tuned model for APOLLOHOSP.NS
+2025-04-11 11:54:18,984 - INFO - Analyzing Bajaj Finserv Ltd. (BAJAJFINSV.NS)
+2025-04-11 11:54:23,671 - INFO - Loaded fine-tuned model for BAJAJFINSV.NS
+2025-04-11 11:54:29,641 - INFO - Analyzing Avenue Supermarts Limited (DMART.NS)
+2025-04-11 11:54:37,263 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 11:54:37,347 - INFO - Created new model
+2025-04-11 11:55:29,352 - INFO - Successfully trained and saved model for DMART.NS
+2025-04-11 11:55:33,540 - INFO - Analyzing Godrej Consumer Products Limited (GODREJCP.NS)
+2025-04-11 11:55:41,967 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 11:55:42,054 - INFO - Created new model
+2025-04-11 11:56:32,454 - INFO - Successfully trained and saved model for GODREJCP.NS
+2025-04-11 11:56:36,766 - INFO - Analyzing Bharat Electronics Limited (BEL.NS)
+2025-04-11 11:56:45,954 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 11:56:46,040 - INFO - Created new model
+2025-04-11 11:57:38,501 - INFO - Successfully trained and saved model for BEL.NS
+2025-04-11 11:57:45,254 - INFO - Analyzing The Tata Power Company Limited (TATAPOWER.NS)
+2025-04-11 11:57:51,338 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 11:57:51,420 - INFO - Created new model
+2025-04-11 11:58:42,771 - INFO - Successfully trained and saved model for TATAPOWER.NS
+2025-04-11 11:58:47,270 - INFO - Analyzing Vedanta Limited (VEDL.NS)
+2025-04-11 11:58:55,609 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 11:58:55,685 - INFO - Created new model
+2025-04-11 11:59:46,280 - INFO - Successfully trained and saved model for VEDL.NS
+2025-04-11 11:59:50,509 - INFO - Analyzing Indian Oil Corporation Limited (IOC.NS)
+2025-04-11 11:59:59,676 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 11:59:59,761 - INFO - Created new model
+2025-04-11 12:00:50,328 - INFO - Successfully trained and saved model for IOC.NS
+2025-04-11 12:00:55,152 - INFO - Analyzing Dabur India Limited (DABUR.NS)
+2025-04-11 12:01:03,135 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:01:03,237 - INFO - Created new model
+2025-04-11 12:01:54,530 - INFO - Successfully trained and saved model for DABUR.NS
+2025-04-11 12:01:59,207 - INFO - Analyzing Pidilite Industries Limited (PIDILITIND.NS)
+2025-04-11 12:02:05,999 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:02:06,114 - INFO - Created new model
+2025-04-11 12:02:57,393 - INFO - Successfully trained and saved model for PIDILITIND.NS
+2025-04-11 12:03:03,775 - INFO - Analyzing Havells India Limited (HAVELLS.NS)
+2025-04-11 12:03:11,398 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:03:11,508 - INFO - Created new model
+2025-04-11 12:04:02,297 - INFO - Successfully trained and saved model for HAVELLS.NS
+2025-04-11 12:04:07,363 - INFO - Analyzing GAIL (India) Limited (GAIL.NS)
+2025-04-11 12:04:15,461 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:04:15,550 - INFO - Created new model
+2025-04-11 12:05:06,546 - INFO - Successfully trained and saved model for GAIL.NS
+2025-04-11 12:05:10,544 - INFO - Analyzing Marico Limited (MARICO.NS)
+2025-04-11 12:05:17,238 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:05:17,332 - INFO - Created new model
+2025-04-11 12:06:09,425 - INFO - Successfully trained and saved model for MARICO.NS
+2025-04-11 12:06:13,552 - INFO - Analyzing ICICI Prudential Life Insurance Company Limited (ICICIPRULI.NS)
+2025-04-11 12:06:19,697 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:06:19,790 - INFO - Created new model
+2025-04-11 12:07:09,948 - INFO - Successfully trained and saved model for ICICIPRULI.NS
+2025-04-11 12:07:14,516 - INFO - Analyzing Siemens Limited (SIEMENS.NS)
+2025-04-11 12:07:21,964 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:07:22,055 - INFO - Created new model
+2025-04-11 12:08:13,121 - INFO - Successfully trained and saved model for SIEMENS.NS
+2025-04-11 12:08:19,579 - INFO - Analyzing Ambuja Cements Limited (AMBUJACEM.NS)
+2025-04-11 12:08:28,892 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:08:29,046 - INFO - Created new model
+2025-04-11 12:09:19,391 - INFO - Successfully trained and saved model for AMBUJACEM.NS
+2025-04-11 12:09:23,956 - INFO - Analyzing Bank of Baroda Limited (BANKBARODA.NS)
+2025-04-11 12:09:32,263 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:09:32,375 - INFO - Created new model
+2025-04-11 12:10:23,583 - INFO - Successfully trained and saved model for BANKBARODA.NS
+2025-04-11 12:10:30,066 - INFO - Analyzing Punjab National Bank (PNB.NS)
+2025-04-11 12:10:39,712 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:10:39,794 - INFO - Created new model
+2025-04-11 12:11:39,717 - INFO - Successfully trained and saved model for PNB.NS
+2025-04-11 12:11:47,354 - INFO - Analyzing Eternal Limited (ZOMATO.NS)
+2025-04-11 12:11:56,947 - WARNING - Failed to load existing model for ZOMATO.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:11:56,955 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:11:57,046 - INFO - Created new model
+2025-04-11 12:12:35,195 - INFO - Successfully trained and saved model for ZOMATO.NS
+2025-04-11 12:12:40,706 - INFO - Analyzing Info Edge (India) Limited (NAUKRI.NS)
+2025-04-11 12:12:50,371 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:12:50,467 - INFO - Created new model
+2025-04-11 12:13:41,078 - INFO - Successfully trained and saved model for NAUKRI.NS
+2025-04-11 12:13:48,074 - INFO - Analyzing Trent Limited (TRENT.NS)
+2025-04-11 12:13:55,867 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:13:55,973 - INFO - Created new model
+2025-04-11 12:14:46,463 - INFO - Successfully trained and saved model for TRENT.NS
+2025-04-11 12:14:56,616 - ERROR - Analysis failed for MCDOWELL-N.NS: 'NoneType' object has no attribute 'update'
+2025-04-11 12:14:57,159 - INFO - Analyzing LTIMindtree Limited (LTIM.NS)
+2025-04-11 12:15:02,881 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:15:02,973 - INFO - Created new model
+2025-04-11 12:15:55,209 - INFO - Successfully trained and saved model for LTIM.NS
+2025-04-11 12:16:00,621 - INFO - Analyzing Berger Paints India Limited (BERGEPAINT.NS)
+2025-04-11 12:16:10,389 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:16:10,480 - INFO - Created new model
+2025-04-11 12:17:02,555 - INFO - Successfully trained and saved model for BERGEPAINT.NS
+2025-04-11 12:17:06,922 - INFO - Analyzing Colgate-Palmolive (India) Limited (COLPAL.NS)
+2025-04-11 12:17:12,384 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:17:12,477 - INFO - Created new model
+2025-04-11 12:18:04,069 - INFO - Successfully trained and saved model for COLPAL.NS
+2025-04-11 12:18:10,422 - INFO - Analyzing ABB India Limited (ABB.NS)
+2025-04-11 12:18:17,184 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:18:17,280 - INFO - Created new model
+2025-04-11 12:19:09,440 - INFO - Successfully trained and saved model for ABB.NS
+2025-04-11 12:19:13,530 - INFO - Analyzing Hindustan Aeronautics Limited (HAL.NS)
+2025-04-11 12:19:19,835 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:19:19,920 - INFO - Created new model
+2025-04-11 12:20:11,176 - INFO - Successfully trained and saved model for HAL.NS
+2025-04-11 12:20:15,523 - INFO - Analyzing InterGlobe Aviation Limited (INDIGO.NS)
+2025-04-11 12:20:23,989 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:20:24,070 - INFO - Created new model
+2025-04-11 12:21:14,092 - INFO - Successfully trained and saved model for INDIGO.NS
+2025-04-11 12:21:19,679 - INFO - Analyzing Canara Bank (CANBK.NS)
+2025-04-11 12:21:29,668 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:21:29,781 - INFO - Created new model
+2025-04-11 12:22:21,760 - INFO - Successfully trained and saved model for CANBK.NS
+2025-04-11 12:22:26,860 - INFO - Analyzing ACC Limited (ACC.NS)
+2025-04-11 12:22:35,864 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:22:35,974 - INFO - Created new model
+2025-04-11 12:23:31,139 - INFO - Successfully trained and saved model for ACC.NS
+2025-04-11 12:23:38,976 - INFO - Analyzing One97 Communications Limited (PAYTM.NS)
+2025-04-11 12:23:48,086 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:23:48,183 - INFO - Created new model
+2025-04-11 12:24:23,593 - INFO - Successfully trained and saved model for PAYTM.NS
+2025-04-11 12:24:28,587 - INFO - Analyzing Jindal Steel & Power Limited (JINDALSTEL.NS)
+2025-04-11 12:24:37,676 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:24:37,764 - INFO - Created new model
+2025-04-11 12:25:29,733 - INFO - Successfully trained and saved model for JINDALSTEL.NS
+2025-04-11 12:25:34,699 - INFO - Analyzing DLF Limited (DLF.NS)
+2025-04-11 12:25:43,579 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:25:43,706 - INFO - Created new model
+2025-04-11 12:26:37,189 - INFO - Successfully trained and saved model for DLF.NS
+2025-04-11 12:26:41,599 - INFO - Analyzing ICICI Lombard General Insurance Company Limited (ICICIGI.NS)

@@ -1,0 +1,312 @@
+2025-04-11 12:28:25,477 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-11 12:28:37,612 - INFO - Loaded fine-tuned model for RELIANCE.NS
+2025-04-11 12:28:43,321 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-04-11 12:28:53,241 - INFO - Loaded fine-tuned model for TCS.NS
+2025-04-11 12:28:59,332 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-04-11 12:29:15,896 - INFO - Loaded fine-tuned model for HDFCBANK.NS
+2025-04-11 12:29:21,734 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-04-11 12:29:40,015 - INFO - Loaded fine-tuned model for INFY.NS
+2025-04-11 12:29:46,027 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-04-11 12:29:55,915 - INFO - Loaded fine-tuned model for HINDUNILVR.NS
+2025-04-11 12:30:03,426 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-04-11 12:30:09,678 - INFO - Loaded fine-tuned model for ICICIBANK.NS
+2025-04-11 12:30:13,991 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-04-11 12:30:20,461 - INFO - Loaded fine-tuned model for KOTAKBANK.NS
+2025-04-11 12:30:25,480 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-11 12:30:33,160 - INFO - Loaded fine-tuned model for SBIN.NS
+2025-04-11 12:30:38,018 - INFO - Analyzing Bajaj Finance Limited (BAJFINANCE.NS)
+2025-04-11 12:30:47,445 - INFO - Loaded fine-tuned model for BAJFINANCE.NS
+2025-04-11 12:30:53,866 - INFO - Analyzing Bharti Airtel Limited (BHARTIARTL.NS)
+2025-04-11 12:31:02,279 - INFO - Loaded fine-tuned model for BHARTIARTL.NS
+2025-04-11 12:31:11,652 - INFO - Analyzing Adani Ports and Special Economic Zone Limited (ADANIPORTS.NS)
+2025-04-11 12:31:18,111 - INFO - Loaded fine-tuned model for ADANIPORTS.NS
+2025-04-11 12:31:24,461 - INFO - Analyzing Asian Paints Limited (ASIANPAINT.NS)
+2025-04-11 12:31:32,331 - INFO - Loaded fine-tuned model for ASIANPAINT.NS
+2025-04-11 12:31:37,700 - INFO - Analyzing Axis Bank Limited (AXISBANK.NS)
+2025-04-11 12:31:45,543 - INFO - Loaded fine-tuned model for AXISBANK.NS
+2025-04-11 12:31:50,425 - INFO - Analyzing Bajaj Auto Limited (BAJAJ-AUTO.NS)
+2025-04-11 12:31:59,871 - INFO - Loaded fine-tuned model for BAJAJ-AUTO.NS
+2025-04-11 12:32:06,043 - INFO - Analyzing Bharat Petroleum Corporation Limited (BPCL.NS)
+2025-04-11 12:32:13,438 - INFO - Loaded fine-tuned model for BPCL.NS
+2025-04-11 12:32:19,356 - INFO - Analyzing Britannia Industries Limited (BRITANNIA.NS)
+2025-04-11 12:32:27,980 - INFO - Loaded fine-tuned model for BRITANNIA.NS
+2025-04-11 12:32:33,521 - INFO - Analyzing Cipla Limited (CIPLA.NS)
+2025-04-11 12:32:38,613 - INFO - Loaded fine-tuned model for CIPLA.NS
+2025-04-11 12:32:42,634 - INFO - Analyzing Coal India Limited (COALINDIA.NS)
+2025-04-11 12:32:48,500 - INFO - Loaded fine-tuned model for COALINDIA.NS
+2025-04-11 12:32:52,579 - INFO - Analyzing Divi's Laboratories Limited (DIVISLAB.NS)
+2025-04-11 12:32:59,202 - INFO - Loaded fine-tuned model for DIVISLAB.NS
+2025-04-11 12:33:03,774 - INFO - Analyzing Dr. Reddy's Laboratories Limited (DRREDDY.NS)
+2025-04-11 12:33:10,477 - INFO - Loaded fine-tuned model for DRREDDY.NS
+2025-04-11 12:33:16,873 - INFO - Analyzing Eicher Motors Limited (EICHERMOT.NS)
+2025-04-11 12:33:22,493 - INFO - Loaded fine-tuned model for EICHERMOT.NS
+2025-04-11 12:33:26,090 - INFO - Analyzing Grasim Industries Limited (GRASIM.NS)
+2025-04-11 12:33:31,096 - INFO - Loaded fine-tuned model for GRASIM.NS
+2025-04-11 12:33:34,838 - INFO - Analyzing HCL Technologies Limited (HCLTECH.NS)
+2025-04-11 12:33:36,182 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:33:36,371 - INFO - Loaded fine-tuned model for HCLTECH.NS
+2025-04-11 12:33:42,131 - INFO - Analyzing Hero MotoCorp Limited (HEROMOTOCO.NS)
+2025-04-11 12:33:43,208 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:33:43,418 - INFO - Loaded fine-tuned model for HEROMOTOCO.NS
+2025-04-11 12:33:48,604 - INFO - Analyzing HDFC Life Insurance Company Limited (HDFCLIFE.NS)
+2025-04-11 12:33:49,667 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:33:49,937 - INFO - Loaded fine-tuned model for HDFCLIFE.NS
+2025-04-11 12:33:56,784 - INFO - Analyzing ITC Limited (ITC.NS)
+2025-04-11 12:33:59,040 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:33:59,304 - INFO - Loaded fine-tuned model for ITC.NS
+2025-04-11 12:34:04,229 - INFO - Analyzing IndusInd Bank Limited (INDUSINDBK.NS)
+2025-04-11 12:34:05,311 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:05,566 - INFO - Loaded fine-tuned model for INDUSINDBK.NS
+2025-04-11 12:34:10,554 - INFO - Analyzing JSW Steel Limited (JSWSTEEL.NS)
+2025-04-11 12:34:11,758 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:12,011 - INFO - Loaded fine-tuned model for JSWSTEEL.NS
+2025-04-11 12:34:16,801 - INFO - Analyzing Larsen & Toubro Limited (LT.NS)
+2025-04-11 12:34:18,121 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:18,379 - INFO - Loaded fine-tuned model for LT.NS
+2025-04-11 12:34:23,222 - INFO - Analyzing Maruti Suzuki India Limited (MARUTI.NS)
+2025-04-11 12:34:24,579 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:24,846 - INFO - Loaded fine-tuned model for MARUTI.NS
+2025-04-11 12:34:31,971 - INFO - Analyzing Nestlé India Limited (NESTLEIND.NS)
+2025-04-11 12:34:33,217 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:33,474 - INFO - Loaded fine-tuned model for NESTLEIND.NS
+2025-04-11 12:34:38,416 - INFO - Analyzing NTPC Limited (NTPC.NS)
+2025-04-11 12:34:42,283 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:42,558 - INFO - Loaded fine-tuned model for NTPC.NS
+2025-04-11 12:34:47,294 - INFO - Analyzing Oil and Natural Gas Corporation Limited (ONGC.NS)
+2025-04-11 12:34:48,661 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:48,924 - INFO - Loaded fine-tuned model for ONGC.NS
+2025-04-11 12:34:53,590 - INFO - Analyzing Power Grid Corporation of India Limited (POWERGRID.NS)
+2025-04-11 12:34:54,850 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:34:55,108 - INFO - Loaded fine-tuned model for POWERGRID.NS
+2025-04-11 12:34:59,972 - INFO - Analyzing SBI Life Insurance Company Limited (SBILIFE.NS)
+2025-04-11 12:35:01,660 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:01,837 - INFO - Loaded fine-tuned model for SBILIFE.NS
+2025-04-11 12:35:08,949 - INFO - Analyzing Sun Pharmaceutical Industries Limited (SUNPHARMA.NS)
+2025-04-11 12:35:10,883 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:11,160 - INFO - Loaded fine-tuned model for SUNPHARMA.NS
+2025-04-11 12:35:14,927 - INFO - Analyzing Tata Consumer Products Limited (TATACONSUM.NS)
+2025-04-11 12:35:16,003 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:16,186 - INFO - Loaded fine-tuned model for TATACONSUM.NS
+2025-04-11 12:35:21,549 - INFO - Analyzing Tata Motors Limited (TATAMOTORS.NS)
+2025-04-11 12:35:22,907 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:23,145 - INFO - Loaded fine-tuned model for TATAMOTORS.NS
+2025-04-11 12:35:28,043 - INFO - Analyzing Tata Steel Limited (TATASTEEL.NS)
+2025-04-11 12:35:29,280 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:29,487 - INFO - Loaded fine-tuned model for TATASTEEL.NS
+2025-04-11 12:35:34,101 - INFO - Analyzing Tech Mahindra Limited (TECHM.NS)
+2025-04-11 12:35:35,222 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:35,442 - INFO - Loaded fine-tuned model for TECHM.NS
+2025-04-11 12:35:42,025 - INFO - Analyzing Titan Company Limited (TITAN.NS)
+2025-04-11 12:35:42,992 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:43,227 - INFO - Loaded fine-tuned model for TITAN.NS
+2025-04-11 12:35:48,780 - INFO - Analyzing UltraTech Cement Limited (ULTRACEMCO.NS)
+2025-04-11 12:35:51,053 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:51,289 - INFO - Loaded fine-tuned model for ULTRACEMCO.NS
+2025-04-11 12:35:57,701 - INFO - Analyzing Wipro Limited (WIPRO.NS)
+2025-04-11 12:35:58,987 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:35:59,264 - INFO - Loaded fine-tuned model for WIPRO.NS
+2025-04-11 12:36:04,979 - INFO - Analyzing Mahindra & Mahindra Limited (M&M.NS)
+2025-04-11 12:36:06,105 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:06,349 - INFO - Loaded fine-tuned model for M&M.NS
+2025-04-11 12:36:11,481 - INFO - Analyzing Adani Enterprises Limited (ADANIENT.NS)
+2025-04-11 12:36:12,465 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:12,688 - INFO - Loaded fine-tuned model for ADANIENT.NS
+2025-04-11 12:36:19,904 - INFO - Analyzing Apollo Hospitals Enterprise Limited (APOLLOHOSP.NS)
+2025-04-11 12:36:21,176 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:21,420 - INFO - Loaded fine-tuned model for APOLLOHOSP.NS
+2025-04-11 12:36:26,956 - INFO - Analyzing Bajaj Finserv Ltd. (BAJAJFINSV.NS)
+2025-04-11 12:36:28,946 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:29,153 - INFO - Loaded fine-tuned model for BAJAJFINSV.NS
+2025-04-11 12:36:34,560 - INFO - Analyzing Avenue Supermarts Limited (DMART.NS)
+2025-04-11 12:36:35,522 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:35,742 - INFO - Loaded fine-tuned model for DMART.NS
+2025-04-11 12:36:40,204 - INFO - Analyzing Godrej Consumer Products Limited (GODREJCP.NS)
+2025-04-11 12:36:41,184 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:41,362 - INFO - Loaded fine-tuned model for GODREJCP.NS
+2025-04-11 12:36:46,560 - INFO - Analyzing Bharat Electronics Limited (BEL.NS)
+2025-04-11 12:36:48,333 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:48,575 - INFO - Loaded fine-tuned model for BEL.NS
+2025-04-11 12:36:55,426 - INFO - Analyzing The Tata Power Company Limited (TATAPOWER.NS)
+2025-04-11 12:36:56,259 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:36:56,478 - INFO - Loaded fine-tuned model for TATAPOWER.NS
+2025-04-11 12:37:01,341 - INFO - Analyzing Vedanta Limited (VEDL.NS)
+2025-04-11 12:37:02,137 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:37:02,333 - INFO - Loaded fine-tuned model for VEDL.NS
+2025-04-11 12:37:07,639 - INFO - Analyzing Indian Oil Corporation Limited (IOC.NS)
+2025-04-11 12:37:09,012 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:37:09,262 - INFO - Loaded fine-tuned model for IOC.NS
+2025-04-11 12:37:14,538 - INFO - Analyzing Dabur India Limited (DABUR.NS)
+2025-04-11 12:37:15,371 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:37:15,615 - INFO - Loaded fine-tuned model for DABUR.NS
+2025-04-11 12:37:21,103 - INFO - Analyzing Pidilite Industries Limited (PIDILITIND.NS)
+2025-04-11 12:37:23,497 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:37:23,719 - INFO - Loaded fine-tuned model for PIDILITIND.NS
+2025-04-11 12:37:31,534 - INFO - Analyzing Havells India Limited (HAVELLS.NS)
+2025-04-11 12:37:33,654 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:37:33,884 - INFO - Loaded fine-tuned model for HAVELLS.NS
+2025-04-11 12:37:39,785 - INFO - Analyzing GAIL (India) Limited (GAIL.NS)
+2025-04-11 12:37:42,955 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:37:43,164 - INFO - Loaded fine-tuned model for GAIL.NS
+2025-04-11 12:37:49,123 - INFO - Analyzing Marico Limited (MARICO.NS)
+2025-04-11 12:37:52,382 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:37:52,564 - INFO - Loaded fine-tuned model for MARICO.NS
+2025-04-11 12:37:58,220 - INFO - Analyzing ICICI Prudential Life Insurance Company Limited (ICICIPRULI.NS)
+2025-04-11 12:38:00,778 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:38:01,009 - INFO - Loaded fine-tuned model for ICICIPRULI.NS
+2025-04-11 12:38:06,708 - INFO - Analyzing Siemens Limited (SIEMENS.NS)
+2025-04-11 12:38:09,495 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:38:09,693 - INFO - Loaded fine-tuned model for SIEMENS.NS
+2025-04-11 12:38:17,043 - INFO - Analyzing Ambuja Cements Limited (AMBUJACEM.NS)
+2025-04-11 12:38:20,737 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:38:20,925 - INFO - Loaded fine-tuned model for AMBUJACEM.NS
+2025-04-11 12:38:28,751 - INFO - Analyzing Bank of Baroda Limited (BANKBARODA.NS)
+2025-04-11 12:38:31,705 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:38:31,937 - INFO - Loaded fine-tuned model for BANKBARODA.NS
+2025-04-11 12:38:38,023 - INFO - Analyzing Punjab National Bank (PNB.NS)
+2025-04-11 12:38:41,414 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:38:41,619 - INFO - Loaded fine-tuned model for PNB.NS
+2025-04-11 12:38:46,405 - ERROR - Analysis failed for ZOMATO.NS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-11 12:38:47,470 - ERROR - Analysis failed for NAUKRI.NS: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-04-11 12:38:52,866 - INFO - Analyzing Trent Limited (TRENT.NS)
+2025-04-11 12:38:56,721 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:38:56,932 - INFO - Loaded fine-tuned model for TRENT.NS
+2025-04-11 12:39:09,982 - ERROR - Analysis failed for MCDOWELL-N.NS: 'NoneType' object has no attribute 'update'
+2025-04-11 12:39:10,510 - INFO - Analyzing LTIMindtree Limited (LTIM.NS)
+2025-04-11 12:39:11,385 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:39:11,604 - INFO - Loaded fine-tuned model for LTIM.NS
+2025-04-11 12:39:17,664 - INFO - Analyzing Berger Paints India Limited (BERGEPAINT.NS)
+2025-04-11 12:39:19,735 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:39:19,979 - INFO - Loaded fine-tuned model for BERGEPAINT.NS
+2025-04-11 12:39:26,423 - INFO - Analyzing Colgate-Palmolive (India) Limited (COLPAL.NS)
+2025-04-11 12:39:29,655 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:39:29,865 - INFO - Loaded fine-tuned model for COLPAL.NS
+2025-04-11 12:39:37,983 - INFO - Analyzing ABB India Limited (ABB.NS)
+2025-04-11 12:39:40,235 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:39:40,431 - INFO - Loaded fine-tuned model for ABB.NS
+2025-04-11 12:39:47,090 - INFO - Analyzing Hindustan Aeronautics Limited (HAL.NS)
+2025-04-11 12:39:49,496 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:39:49,734 - INFO - Loaded fine-tuned model for HAL.NS
+2025-04-11 12:39:55,584 - INFO - Analyzing InterGlobe Aviation Limited (INDIGO.NS)
+2025-04-11 12:39:58,247 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:39:58,496 - INFO - Loaded fine-tuned model for INDIGO.NS
+2025-04-11 12:40:05,007 - INFO - Analyzing Canara Bank (CANBK.NS)
+2025-04-11 12:40:07,737 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:40:07,955 - INFO - Loaded fine-tuned model for CANBK.NS
+2025-04-11 12:40:14,706 - INFO - Analyzing ACC Limited (ACC.NS)
+2025-04-11 12:40:18,215 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:40:18,491 - INFO - Loaded fine-tuned model for ACC.NS
+2025-04-11 12:40:27,341 - INFO - Analyzing One97 Communications Limited (PAYTM.NS)
+2025-04-11 12:40:30,854 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:40:31,143 - INFO - Loaded fine-tuned model for PAYTM.NS
+2025-04-11 12:40:37,164 - INFO - Analyzing Jindal Steel & Power Limited (JINDALSTEL.NS)
+2025-04-11 12:40:39,720 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:40:39,913 - INFO - Loaded fine-tuned model for JINDALSTEL.NS
+2025-04-11 12:40:45,840 - INFO - Analyzing DLF Limited (DLF.NS)
+2025-04-11 12:40:49,021 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:40:49,292 - INFO - Loaded fine-tuned model for DLF.NS
+2025-04-11 12:40:56,386 - INFO - Analyzing ICICI Lombard General Insurance Company Limited (ICICIGI.NS)
+2025-04-11 12:40:59,921 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:41:00,025 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:41:00,166 - INFO - Created new model
+2025-04-11 12:41:55,601 - INFO - Successfully trained and saved model for ICICIGI.NS
+2025-04-11 12:42:00,168 - INFO - Analyzing Varun Beverages Limited (VBL.NS)
+2025-04-11 12:42:03,289 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:42:03,314 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:42:03,409 - INFO - Created new model
+2025-04-11 12:42:56,346 - INFO - Successfully trained and saved model for VBL.NS
+2025-04-11 12:43:02,280 - INFO - Analyzing Aurobindo Pharma Limited (AUROPHARMA.NS)
+2025-04-11 12:43:06,399 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:43:06,423 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:43:06,521 - INFO - Created new model
+2025-04-11 12:44:05,072 - INFO - Successfully trained and saved model for AUROPHARMA.NS
+2025-04-11 12:44:09,477 - INFO - Analyzing Polycab India Limited (POLYCAB.NS)
+2025-04-11 12:44:11,016 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:44:11,049 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:44:11,131 - INFO - Created new model
+2025-04-11 12:45:00,186 - INFO - Successfully trained and saved model for POLYCAB.NS
+2025-04-11 12:45:05,287 - INFO - Analyzing IDBI Bank Limited (IDBI.NS)
+2025-04-11 12:45:08,913 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:45:08,934 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:45:09,035 - INFO - Created new model
+2025-04-11 12:46:01,356 - INFO - Successfully trained and saved model for IDBI.NS
+2025-04-11 12:46:05,549 - INFO - Analyzing Cholamandalam Investment and Finance Company Limited (CHOLAFIN.NS)
+2025-04-11 12:46:09,335 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:46:09,360 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:46:09,458 - INFO - Created new model
+2025-04-11 12:46:59,323 - INFO - Successfully trained and saved model for CHOLAFIN.NS
+2025-04-11 12:47:03,767 - INFO - Analyzing Lupin Limited (LUPIN.NS)
+2025-04-11 12:47:05,618 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:47:05,644 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:47:05,732 - INFO - Created new model
+2025-04-11 12:47:55,906 - INFO - Successfully trained and saved model for LUPIN.NS
+2025-04-11 12:48:02,326 - INFO - Analyzing MRF Limited (MRF.NS)
+2025-04-11 12:48:07,719 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:48:07,750 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:48:07,852 - INFO - Created new model
+2025-04-11 12:49:02,207 - INFO - Successfully trained and saved model for MRF.NS
+2025-04-11 12:49:05,669 - INFO - Analyzing Procter & Gamble Hygiene and Health Care Limited (PGHH.NS)
+2025-04-11 12:49:06,529 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:49:06,551 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:49:06,629 - INFO - Created new model
+2025-04-11 12:49:58,160 - INFO - Successfully trained and saved model for PGHH.NS
+2025-04-11 12:50:01,542 - INFO - Analyzing Bosch Limited (BOSCHLTD.NS)
+2025-04-11 12:50:02,471 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:50:02,488 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:50:02,576 - INFO - Created new model
+2025-04-11 12:50:52,513 - INFO - Successfully trained and saved model for BOSCHLTD.NS
+2025-04-11 12:50:56,040 - INFO - Analyzing Zydus Lifesciences Limited (ZYDUSLIFE.NS)
+2025-04-11 12:50:56,942 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:50:56,960 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:50:57,044 - INFO - Created new model
+2025-04-11 12:52:03,661 - INFO - Successfully trained and saved model for ZYDUSLIFE.NS
+2025-04-11 12:52:09,276 - INFO - Analyzing HDFC Asset Management Company Limited (HDFCAMC.NS)
+2025-04-11 12:52:10,395 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:52:10,427 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:52:10,537 - INFO - Created new model
+2025-04-11 12:53:33,163 - INFO - Successfully trained and saved model for HDFCAMC.NS
+2025-04-11 12:53:40,174 - ERROR - Analysis failed for TORNTPHARM.NS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-11 12:53:41,013 - INFO - Analyzing Shree Cement Limited (SHREECEM.NS)
+2025-04-11 12:53:41,947 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:53:41,977 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:53:42,089 - INFO - Created new model
+2025-04-11 12:55:03,858 - INFO - Successfully trained and saved model for SHREECEM.NS
+2025-04-11 12:55:11,254 - INFO - Analyzing NMDC Limited (NMDC.NS)
+2025-04-11 12:55:12,263 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:55:12,307 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:55:12,451 - INFO - Created new model
+2025-04-11 12:56:32,757 - INFO - Successfully trained and saved model for NMDC.NS
+2025-04-11 12:56:36,103 - INFO - Analyzing TVS Motor Company Limited (TVSMOTOR.NS)
+2025-04-11 12:56:36,868 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:56:36,885 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:56:36,944 - INFO - Created new model
+2025-04-11 12:57:19,996 - INFO - Successfully trained and saved model for TVSMOTOR.NS
+2025-04-11 12:57:24,341 - INFO - Analyzing SBI Cards and Payment Services Limited (SBICARD.NS)
+2025-04-11 12:57:25,287 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:57:25,305 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:57:25,357 - INFO - Created new model
+2025-04-11 12:58:09,113 - INFO - Successfully trained and saved model for SBICARD.NS
+2025-04-11 12:58:14,196 - INFO - Analyzing Yes Bank Limited (YESBANK.NS)
+2025-04-11 12:58:15,188 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:58:15,208 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:58:15,299 - INFO - Created new model
+2025-04-11 12:58:58,610 - INFO - Successfully trained and saved model for YESBANK.NS
+2025-04-11 12:59:02,076 - INFO - Analyzing Bajaj Holdings & Investment Limited (BAJAJHLDNG.NS)
+2025-04-11 12:59:03,022 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:59:03,037 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:59:03,135 - INFO - Created new model
+2025-04-11 12:59:46,911 - INFO - Successfully trained and saved model for BAJAJHLDNG.NS
+2025-04-11 12:59:50,042 - INFO - Analyzing Union Bank of India (UNIONBANK.NS)
+2025-04-11 12:59:51,156 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 12:59:51,171 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 12:59:51,224 - INFO - Created new model
+2025-04-11 13:00:37,230 - INFO - Successfully trained and saved model for UNIONBANK.NS
+2025-04-11 13:00:40,488 - INFO - Analyzing Shriram Finance Limited (SHRIRAMFIN.NS)
+2025-04-11 13:00:41,344 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:00:41,360 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 13:00:41,418 - INFO - Created new model
+2025-04-11 13:01:26,569 - INFO - Successfully trained and saved model for SHRIRAMFIN.NS
+2025-04-11 13:01:29,916 - INFO - Analyzing Hindalco Industries Limited (HINDALCO.NS)
+2025-04-11 13:01:30,743 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:01:30,760 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-11 13:01:30,814 - INFO - Created new model
+2025-04-11 13:02:18,854 - INFO - Successfully trained and saved model for HINDALCO.NS

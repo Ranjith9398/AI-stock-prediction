@@ -1,0 +1,749 @@
+2025-04-11 13:44:27,385 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-11 13:44:28,335 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:44:28,355 - INFO - Training with 12 features for RELIANCE.NS
+2025-04-11 13:44:28,359 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:44:28,369 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:44:28,613 - INFO - Loaded fine-tuned model for RELIANCE.NS with matching features
+2025-04-11 13:44:28,613 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:44:28,618 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:44:28,618 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:44:33,850 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-04-11 13:44:34,669 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:44:34,689 - INFO - Training with 12 features for TCS.NS
+2025-04-11 13:44:34,693 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:44:34,703 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:44:34,772 - INFO - Created new model architecture for 12 features
+2025-04-11 13:45:10,108 - INFO - Successfully trained and saved model for TCS.NS
+2025-04-11 13:45:10,108 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:45:10,112 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:45:10,113 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:45:17,827 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-04-11 13:45:17,861 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:45:17,880 - INFO - Training with 12 features for HDFCBANK.NS
+2025-04-11 13:45:17,885 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:45:17,891 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:45:17,997 - INFO - Created new model architecture for 12 features
+2025-04-11 13:45:55,860 - INFO - Successfully trained and saved model for HDFCBANK.NS
+2025-04-11 13:45:55,860 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:45:55,863 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:45:55,863 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:46:01,391 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-04-11 13:46:02,323 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:46:02,340 - INFO - Training with 12 features for INFY.NS
+2025-04-11 13:46:02,345 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:46:02,351 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:46:02,455 - INFO - Created new model architecture for 12 features
+2025-04-11 13:46:38,454 - INFO - Successfully trained and saved model for INFY.NS
+2025-04-11 13:46:38,454 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:46:38,458 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:46:38,458 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:46:43,822 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-04-11 13:46:44,618 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:46:44,638 - INFO - Training with 12 features for HINDUNILVR.NS
+2025-04-11 13:46:44,642 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:46:44,647 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:46:44,750 - INFO - Created new model architecture for 12 features
+2025-04-11 13:47:21,191 - INFO - Successfully trained and saved model for HINDUNILVR.NS
+2025-04-11 13:47:21,191 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:47:21,196 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:47:21,197 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:47:26,114 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-04-11 13:47:27,062 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:47:27,081 - INFO - Training with 12 features for ICICIBANK.NS
+2025-04-11 13:47:27,088 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:47:27,098 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:47:27,196 - INFO - Created new model architecture for 12 features
+2025-04-11 13:48:05,001 - INFO - Successfully trained and saved model for ICICIBANK.NS
+2025-04-11 13:48:05,001 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:48:05,006 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:48:05,006 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:48:10,792 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-04-11 13:48:11,647 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:48:11,663 - INFO - Training with 12 features for KOTAKBANK.NS
+2025-04-11 13:48:11,670 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:48:11,676 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:48:11,799 - INFO - Created new model architecture for 12 features
+2025-04-11 13:48:46,600 - INFO - Successfully trained and saved model for KOTAKBANK.NS
+2025-04-11 13:48:46,601 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:48:46,606 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:48:46,606 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:48:52,192 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-11 13:48:53,993 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:48:54,010 - INFO - Training with 12 features for SBIN.NS
+2025-04-11 13:48:54,015 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:48:54,023 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:48:54,168 - INFO - Loaded fine-tuned model for SBIN.NS with matching features
+2025-04-11 13:48:54,169 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:48:54,173 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:48:54,174 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:48:59,762 - INFO - Analyzing Bajaj Finance Limited (BAJFINANCE.NS)
+2025-04-11 13:49:00,882 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:49:00,903 - INFO - Training with 12 features for BAJFINANCE.NS
+2025-04-11 13:49:00,907 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:49:00,914 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:49:01,018 - INFO - Created new model architecture for 12 features
+2025-04-11 13:49:36,898 - INFO - Successfully trained and saved model for BAJFINANCE.NS
+2025-04-11 13:49:36,898 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:49:36,902 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:49:36,902 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:49:43,109 - INFO - Analyzing Bharti Airtel Limited (BHARTIARTL.NS)
+2025-04-11 13:49:44,156 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:49:44,176 - INFO - Training with 12 features for BHARTIARTL.NS
+2025-04-11 13:49:44,183 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:49:44,189 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:49:44,289 - INFO - Created new model architecture for 12 features
+2025-04-11 13:50:19,843 - INFO - Successfully trained and saved model for BHARTIARTL.NS
+2025-04-11 13:50:19,843 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:50:19,849 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:50:19,850 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:50:26,215 - INFO - Analyzing Adani Ports and Special Economic Zone Limited (ADANIPORTS.NS)
+2025-04-11 13:50:27,867 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:50:27,888 - INFO - Training with 12 features for ADANIPORTS.NS
+2025-04-11 13:50:27,893 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:50:27,899 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:50:28,003 - INFO - Created new model architecture for 12 features
+2025-04-11 13:51:04,904 - INFO - Successfully trained and saved model for ADANIPORTS.NS
+2025-04-11 13:51:04,904 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:51:04,909 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:51:04,909 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:51:10,592 - INFO - Analyzing Asian Paints Limited (ASIANPAINT.NS)
+2025-04-11 13:51:11,466 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:51:11,487 - INFO - Training with 12 features for ASIANPAINT.NS
+2025-04-11 13:51:11,493 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:51:11,500 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:51:11,605 - INFO - Created new model architecture for 12 features
+2025-04-11 13:51:48,359 - INFO - Successfully trained and saved model for ASIANPAINT.NS
+2025-04-11 13:51:48,360 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:51:48,365 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:51:48,365 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:51:53,578 - INFO - Analyzing Axis Bank Limited (AXISBANK.NS)
+2025-04-11 13:51:54,535 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:51:54,556 - INFO - Training with 12 features for AXISBANK.NS
+2025-04-11 13:51:54,562 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:51:54,567 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:51:54,672 - INFO - Created new model architecture for 12 features
+2025-04-11 13:52:32,536 - INFO - Successfully trained and saved model for AXISBANK.NS
+2025-04-11 13:52:32,536 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:52:32,539 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:52:32,540 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:52:41,445 - INFO - Analyzing Bajaj Auto Limited (BAJAJ-AUTO.NS)
+2025-04-11 13:52:43,960 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:52:43,978 - INFO - Training with 12 features for BAJAJ-AUTO.NS
+2025-04-11 13:52:43,983 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:52:43,989 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:52:44,092 - INFO - Created new model architecture for 12 features
+2025-04-11 13:53:19,978 - INFO - Successfully trained and saved model for BAJAJ-AUTO.NS
+2025-04-11 13:53:19,978 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:53:19,983 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:53:19,983 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:53:25,842 - INFO - Analyzing Bharat Petroleum Corporation Limited (BPCL.NS)
+2025-04-11 13:53:26,755 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:53:26,775 - INFO - Training with 12 features for BPCL.NS
+2025-04-11 13:53:26,781 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:53:26,789 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:53:26,889 - INFO - Created new model architecture for 12 features
+2025-04-11 13:54:02,482 - INFO - Successfully trained and saved model for BPCL.NS
+2025-04-11 13:54:02,483 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:54:02,487 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:54:02,487 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:54:08,463 - INFO - Analyzing Britannia Industries Limited (BRITANNIA.NS)
+2025-04-11 13:54:09,465 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:54:09,489 - INFO - Training with 12 features for BRITANNIA.NS
+2025-04-11 13:54:09,493 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:54:09,497 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:54:09,604 - INFO - Created new model architecture for 12 features
+2025-04-11 13:54:45,846 - INFO - Successfully trained and saved model for BRITANNIA.NS
+2025-04-11 13:54:45,846 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:54:45,850 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:54:45,851 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:54:51,715 - INFO - Analyzing Cipla Limited (CIPLA.NS)
+2025-04-11 13:54:52,690 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:54:52,713 - INFO - Training with 12 features for CIPLA.NS
+2025-04-11 13:54:52,717 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:54:52,723 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:54:52,827 - INFO - Created new model architecture for 12 features
+2025-04-11 13:55:30,088 - INFO - Successfully trained and saved model for CIPLA.NS
+2025-04-11 13:55:30,089 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:55:30,092 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:55:30,092 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:55:35,972 - INFO - Analyzing Coal India Limited (COALINDIA.NS)
+2025-04-11 13:55:36,874 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:55:36,891 - INFO - Training with 12 features for COALINDIA.NS
+2025-04-11 13:55:36,897 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:55:36,905 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:55:37,007 - INFO - Created new model architecture for 12 features
+2025-04-11 13:56:12,782 - INFO - Successfully trained and saved model for COALINDIA.NS
+2025-04-11 13:56:12,782 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:56:12,786 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:56:12,786 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:56:18,543 - INFO - Analyzing Divi's Laboratories Limited (DIVISLAB.NS)
+2025-04-11 13:56:19,491 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:56:19,513 - INFO - Training with 12 features for DIVISLAB.NS
+2025-04-11 13:56:19,517 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:56:19,523 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:56:19,623 - INFO - Created new model architecture for 12 features
+2025-04-11 13:56:56,316 - INFO - Successfully trained and saved model for DIVISLAB.NS
+2025-04-11 13:56:56,317 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:56:56,321 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:56:56,321 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:57:02,674 - INFO - Analyzing Dr. Reddy's Laboratories Limited (DRREDDY.NS)
+2025-04-11 13:57:04,406 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:57:04,425 - INFO - Training with 12 features for DRREDDY.NS
+2025-04-11 13:57:04,431 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:57:04,437 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:57:04,538 - INFO - Created new model architecture for 12 features
+2025-04-11 13:57:41,451 - INFO - Successfully trained and saved model for DRREDDY.NS
+2025-04-11 13:57:41,451 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:57:41,455 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:57:41,455 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:57:47,640 - INFO - Analyzing Eicher Motors Limited (EICHERMOT.NS)
+2025-04-11 13:57:49,315 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:57:49,334 - INFO - Training with 12 features for EICHERMOT.NS
+2025-04-11 13:57:49,340 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:57:49,347 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:57:49,447 - INFO - Created new model architecture for 12 features
+2025-04-11 13:58:30,482 - INFO - Successfully trained and saved model for EICHERMOT.NS
+2025-04-11 13:58:30,482 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:58:30,487 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:58:30,488 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:58:36,753 - INFO - Analyzing Grasim Industries Limited (GRASIM.NS)
+2025-04-11 13:58:37,740 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:58:37,761 - INFO - Training with 12 features for GRASIM.NS
+2025-04-11 13:58:37,768 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:58:37,777 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:58:37,921 - INFO - Created new model architecture for 12 features
+2025-04-11 13:59:15,525 - INFO - Successfully trained and saved model for GRASIM.NS
+2025-04-11 13:59:15,525 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:59:15,530 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:59:15,530 - INFO - Prediction window shape: (60, 12)
+2025-04-11 13:59:20,640 - INFO - Analyzing HCL Technologies Limited (HCLTECH.NS)
+2025-04-11 13:59:21,499 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 13:59:21,514 - INFO - Training with 12 features for HCLTECH.NS
+2025-04-11 13:59:21,520 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 13:59:21,528 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 13:59:21,632 - INFO - Created new model architecture for 12 features
+2025-04-11 13:59:57,860 - INFO - Successfully trained and saved model for HCLTECH.NS
+2025-04-11 13:59:57,861 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 13:59:57,865 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 13:59:57,866 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:00:03,942 - INFO - Analyzing Hero MotoCorp Limited (HEROMOTOCO.NS)
+2025-04-11 14:00:04,749 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:00:04,771 - INFO - Training with 12 features for HEROMOTOCO.NS
+2025-04-11 14:00:04,775 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:00:04,780 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:00:04,885 - INFO - Created new model architecture for 12 features
+2025-04-11 14:00:43,615 - INFO - Successfully trained and saved model for HEROMOTOCO.NS
+2025-04-11 14:00:43,615 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:00:43,620 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:00:43,620 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:00:49,749 - INFO - Analyzing HDFC Life Insurance Company Limited (HDFCLIFE.NS)
+2025-04-11 14:00:50,916 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:00:50,937 - INFO - Training with 12 features for HDFCLIFE.NS
+2025-04-11 14:00:50,942 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:00:50,949 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:00:51,058 - INFO - Created new model architecture for 12 features
+2025-04-11 14:01:26,919 - INFO - Successfully trained and saved model for HDFCLIFE.NS
+2025-04-11 14:01:26,920 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:01:26,924 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:01:26,924 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:01:33,068 - INFO - Analyzing ITC Limited (ITC.NS)
+2025-04-11 14:01:34,011 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:01:34,028 - INFO - Training with 12 features for ITC.NS
+2025-04-11 14:01:34,034 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:01:34,040 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:01:34,143 - INFO - Created new model architecture for 12 features
+2025-04-11 14:02:15,542 - INFO - Successfully trained and saved model for ITC.NS
+2025-04-11 14:02:15,542 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:02:15,548 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:02:15,548 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:02:21,767 - INFO - Analyzing IndusInd Bank Limited (INDUSINDBK.NS)
+2025-04-11 14:02:22,738 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:02:22,760 - INFO - Training with 12 features for INDUSINDBK.NS
+2025-04-11 14:02:22,764 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:02:22,772 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:02:22,876 - INFO - Created new model architecture for 12 features
+2025-04-11 14:02:59,858 - INFO - Successfully trained and saved model for INDUSINDBK.NS
+2025-04-11 14:02:59,859 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:02:59,862 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:02:59,863 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:03:06,107 - INFO - Analyzing JSW Steel Limited (JSWSTEEL.NS)
+2025-04-11 14:03:07,001 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:03:07,019 - INFO - Training with 12 features for JSWSTEEL.NS
+2025-04-11 14:03:07,025 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:03:07,032 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:03:07,133 - INFO - Created new model architecture for 12 features
+2025-04-11 14:03:45,087 - INFO - Successfully trained and saved model for JSWSTEEL.NS
+2025-04-11 14:03:45,087 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:03:45,092 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:03:45,092 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:03:51,107 - INFO - Analyzing Larsen & Toubro Limited (LT.NS)
+2025-04-11 14:03:51,879 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:03:51,898 - INFO - Training with 12 features for LT.NS
+2025-04-11 14:03:51,903 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:03:51,910 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:03:52,015 - INFO - Created new model architecture for 12 features
+2025-04-11 14:04:29,136 - INFO - Successfully trained and saved model for LT.NS
+2025-04-11 14:04:29,137 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:04:29,141 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:04:29,141 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:04:35,306 - INFO - Analyzing Maruti Suzuki India Limited (MARUTI.NS)
+2025-04-11 14:04:36,169 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:04:36,186 - INFO - Training with 12 features for MARUTI.NS
+2025-04-11 14:04:36,191 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:04:36,196 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:04:36,302 - INFO - Created new model architecture for 12 features
+2025-04-11 14:05:12,723 - INFO - Successfully trained and saved model for MARUTI.NS
+2025-04-11 14:05:12,724 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:05:12,728 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:05:12,728 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:05:19,030 - INFO - Analyzing Nestlé India Limited (NESTLEIND.NS)
+2025-04-11 14:05:19,869 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:05:19,889 - INFO - Training with 12 features for NESTLEIND.NS
+2025-04-11 14:05:19,893 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:05:19,945 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:05:20,056 - INFO - Created new model architecture for 12 features
+2025-04-11 14:05:57,035 - INFO - Successfully trained and saved model for NESTLEIND.NS
+2025-04-11 14:05:57,036 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:05:57,039 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:05:57,039 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:06:03,514 - INFO - Analyzing NTPC Limited (NTPC.NS)
+2025-04-11 14:06:04,417 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:06:04,437 - INFO - Training with 12 features for NTPC.NS
+2025-04-11 14:06:04,444 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:06:04,451 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:06:04,554 - INFO - Created new model architecture for 12 features
+2025-04-11 14:06:43,218 - INFO - Successfully trained and saved model for NTPC.NS
+2025-04-11 14:06:43,218 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:06:43,224 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:06:43,224 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:06:49,852 - INFO - Analyzing Oil and Natural Gas Corporation Limited (ONGC.NS)
+2025-04-11 14:06:50,799 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:06:50,817 - INFO - Training with 12 features for ONGC.NS
+2025-04-11 14:06:50,823 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:06:50,884 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:06:50,999 - INFO - Created new model architecture for 12 features
+2025-04-11 14:07:27,832 - INFO - Successfully trained and saved model for ONGC.NS
+2025-04-11 14:07:27,832 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:07:27,836 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:07:27,836 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:07:34,249 - INFO - Analyzing Power Grid Corporation of India Limited (POWERGRID.NS)
+2025-04-11 14:07:35,240 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:07:35,260 - INFO - Training with 12 features for POWERGRID.NS
+2025-04-11 14:07:35,268 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:07:35,276 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:07:35,378 - INFO - Created new model architecture for 12 features
+2025-04-11 14:08:12,767 - INFO - Successfully trained and saved model for POWERGRID.NS
+2025-04-11 14:08:12,767 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:08:12,773 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:08:12,773 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:08:19,035 - INFO - Analyzing SBI Life Insurance Company Limited (SBILIFE.NS)
+2025-04-11 14:08:19,837 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:08:19,855 - INFO - Training with 12 features for SBILIFE.NS
+2025-04-11 14:08:19,865 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:08:19,875 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:08:19,985 - INFO - Created new model architecture for 12 features
+2025-04-11 14:08:57,393 - INFO - Successfully trained and saved model for SBILIFE.NS
+2025-04-11 14:08:57,393 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:08:57,397 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:08:57,397 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:09:03,039 - INFO - Analyzing Sun Pharmaceutical Industries Limited (SUNPHARMA.NS)
+2025-04-11 14:09:03,922 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:09:03,941 - INFO - Training with 12 features for SUNPHARMA.NS
+2025-04-11 14:09:03,946 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:09:03,954 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:09:04,052 - INFO - Created new model architecture for 12 features
+2025-04-11 14:09:41,499 - INFO - Successfully trained and saved model for SUNPHARMA.NS
+2025-04-11 14:09:41,499 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:09:41,503 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:09:41,503 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:09:47,835 - INFO - Analyzing Tata Consumer Products Limited (TATACONSUM.NS)
+2025-04-11 14:09:48,706 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:09:48,725 - INFO - Training with 12 features for TATACONSUM.NS
+2025-04-11 14:09:48,731 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:09:48,740 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:09:48,841 - INFO - Created new model architecture for 12 features
+2025-04-11 14:10:26,876 - INFO - Successfully trained and saved model for TATACONSUM.NS
+2025-04-11 14:10:26,876 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:10:26,881 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:10:26,881 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:10:33,383 - INFO - Analyzing Tata Motors Limited (TATAMOTORS.NS)
+2025-04-11 14:10:34,216 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:10:34,238 - INFO - Training with 12 features for TATAMOTORS.NS
+2025-04-11 14:10:34,243 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:10:34,251 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:10:34,352 - INFO - Created new model architecture for 12 features
+2025-04-11 14:11:10,848 - INFO - Successfully trained and saved model for TATAMOTORS.NS
+2025-04-11 14:11:10,848 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:11:10,851 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:11:10,851 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:11:17,434 - INFO - Analyzing Tata Steel Limited (TATASTEEL.NS)
+2025-04-11 14:11:18,288 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:11:18,305 - INFO - Training with 12 features for TATASTEEL.NS
+2025-04-11 14:11:18,309 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:11:18,317 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:11:18,427 - INFO - Created new model architecture for 12 features
+2025-04-11 14:11:56,805 - INFO - Successfully trained and saved model for TATASTEEL.NS
+2025-04-11 14:11:56,805 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:11:56,810 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:11:56,810 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:12:03,478 - INFO - Analyzing Tech Mahindra Limited (TECHM.NS)
+2025-04-11 14:12:04,449 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:12:04,469 - INFO - Training with 12 features for TECHM.NS
+2025-04-11 14:12:04,473 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:12:04,481 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:12:04,627 - INFO - Created new model architecture for 12 features
+2025-04-11 14:12:41,866 - INFO - Successfully trained and saved model for TECHM.NS
+2025-04-11 14:12:41,866 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:12:41,871 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:12:41,871 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:12:47,462 - INFO - Analyzing Titan Company Limited (TITAN.NS)
+2025-04-11 14:12:48,502 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:12:48,523 - INFO - Training with 12 features for TITAN.NS
+2025-04-11 14:12:48,549 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:12:48,557 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:12:48,657 - INFO - Created new model architecture for 12 features
+2025-04-11 14:13:26,359 - INFO - Successfully trained and saved model for TITAN.NS
+2025-04-11 14:13:26,360 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:13:26,363 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:13:26,364 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:13:32,918 - INFO - Analyzing UltraTech Cement Limited (ULTRACEMCO.NS)
+2025-04-11 14:13:33,732 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:13:33,752 - INFO - Training with 12 features for ULTRACEMCO.NS
+2025-04-11 14:13:33,758 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:13:33,765 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:13:33,872 - INFO - Created new model architecture for 12 features
+2025-04-11 14:14:11,176 - INFO - Successfully trained and saved model for ULTRACEMCO.NS
+2025-04-11 14:14:11,176 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:14:11,180 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:14:11,181 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:14:17,764 - INFO - Analyzing Wipro Limited (WIPRO.NS)
+2025-04-11 14:14:18,570 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:14:18,592 - INFO - Training with 12 features for WIPRO.NS
+2025-04-11 14:14:18,596 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:14:18,603 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:14:18,703 - INFO - Created new model architecture for 12 features
+2025-04-11 14:14:54,838 - INFO - Successfully trained and saved model for WIPRO.NS
+2025-04-11 14:14:54,838 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:14:54,841 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:14:54,841 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:15:01,492 - INFO - Analyzing Mahindra & Mahindra Limited (M&M.NS)
+2025-04-11 14:15:02,394 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:15:02,412 - INFO - Training with 12 features for M&M.NS
+2025-04-11 14:15:02,420 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:15:02,432 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:15:02,544 - INFO - Created new model architecture for 12 features
+2025-04-11 14:15:40,385 - INFO - Successfully trained and saved model for M&M.NS
+2025-04-11 14:15:40,386 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:15:40,392 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:15:40,392 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:15:47,576 - INFO - Analyzing Adani Enterprises Limited (ADANIENT.NS)
+2025-04-11 14:15:48,437 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:15:48,457 - INFO - Training with 12 features for ADANIENT.NS
+2025-04-11 14:15:48,462 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:15:48,469 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:15:48,571 - INFO - Created new model architecture for 12 features
+2025-04-11 14:16:25,046 - INFO - Successfully trained and saved model for ADANIENT.NS
+2025-04-11 14:16:25,046 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:16:25,049 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:16:25,050 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:16:31,849 - INFO - Analyzing Apollo Hospitals Enterprise Limited (APOLLOHOSP.NS)
+2025-04-11 14:16:32,691 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:16:32,713 - INFO - Training with 12 features for APOLLOHOSP.NS
+2025-04-11 14:16:32,719 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:16:32,726 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:16:32,830 - INFO - Created new model architecture for 12 features
+2025-04-11 14:17:10,186 - INFO - Successfully trained and saved model for APOLLOHOSP.NS
+2025-04-11 14:17:10,186 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:17:10,192 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:17:10,193 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:17:16,953 - INFO - Analyzing Bajaj Finserv Ltd. (BAJAJFINSV.NS)
+2025-04-11 14:17:17,798 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:17:17,820 - INFO - Training with 12 features for BAJAJFINSV.NS
+2025-04-11 14:17:17,825 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:17:17,832 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:17:17,960 - INFO - Created new model architecture for 12 features
+2025-04-11 14:17:55,706 - INFO - Successfully trained and saved model for BAJAJFINSV.NS
+2025-04-11 14:17:55,707 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:17:55,711 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:17:55,712 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:18:01,517 - INFO - Analyzing Hindalco Industries Limited (HINDALCO.NS)
+2025-04-11 14:18:02,412 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:18:02,432 - INFO - Training with 12 features for HINDALCO.NS
+2025-04-11 14:18:02,438 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:18:02,445 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:18:02,549 - INFO - Created new model architecture for 12 features
+2025-04-11 14:18:39,560 - INFO - Successfully trained and saved model for HINDALCO.NS
+2025-04-11 14:18:39,561 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:18:39,564 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:18:39,564 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:18:46,332 - INFO - Analyzing UPL Limited (UPL.NS)
+2025-04-11 14:18:47,981 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:18:48,001 - INFO - Training with 12 features for UPL.NS
+2025-04-11 14:18:48,007 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:18:48,014 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:18:48,113 - INFO - Created new model architecture for 12 features
+2025-04-11 14:19:26,013 - INFO - Successfully trained and saved model for UPL.NS
+2025-04-11 14:19:26,013 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:19:26,018 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:19:26,019 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:19:32,893 - INFO - Analyzing Shree Cement Limited (SHREECEM.NS)
+2025-04-11 14:19:34,098 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:19:34,115 - INFO - Training with 12 features for SHREECEM.NS
+2025-04-11 14:19:34,143 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:19:34,153 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:19:34,260 - INFO - Created new model architecture for 12 features
+2025-04-11 14:20:12,195 - INFO - Successfully trained and saved model for SHREECEM.NS
+2025-04-11 14:20:12,195 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:20:12,201 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:20:12,201 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:20:19,473 - INFO - Analyzing Avenue Supermarts Limited (DMART.NS)
+2025-04-11 14:20:20,331 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:20:20,349 - INFO - Training with 12 features for DMART.NS
+2025-04-11 14:20:20,355 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:20:20,363 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:20:20,511 - INFO - Created new model architecture for 12 features
+2025-04-11 14:20:58,118 - INFO - Successfully trained and saved model for DMART.NS
+2025-04-11 14:20:58,119 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:20:58,122 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:20:58,122 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:21:05,229 - INFO - Analyzing Godrej Consumer Products Limited (GODREJCP.NS)
+2025-04-11 14:21:06,123 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:21:06,143 - INFO - Training with 12 features for GODREJCP.NS
+2025-04-11 14:21:06,148 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:21:06,155 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:21:06,260 - INFO - Created new model architecture for 12 features
+2025-04-11 14:21:44,648 - INFO - Successfully trained and saved model for GODREJCP.NS
+2025-04-11 14:21:44,648 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:21:44,654 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:21:44,654 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:21:52,002 - INFO - Analyzing Bharat Electronics Limited (BEL.NS)
+2025-04-11 14:21:52,911 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:21:52,928 - INFO - Training with 12 features for BEL.NS
+2025-04-11 14:21:52,936 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:21:52,947 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:21:53,054 - INFO - Created new model architecture for 12 features
+2025-04-11 14:22:32,652 - INFO - Successfully trained and saved model for BEL.NS
+2025-04-11 14:22:32,652 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:22:32,657 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:22:32,657 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:22:39,927 - INFO - Analyzing The Tata Power Company Limited (TATAPOWER.NS)
+2025-04-11 14:22:41,279 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:22:41,301 - INFO - Training with 12 features for TATAPOWER.NS
+2025-04-11 14:22:41,306 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:22:41,312 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:22:41,422 - INFO - Created new model architecture for 12 features
+2025-04-11 14:23:17,866 - INFO - Successfully trained and saved model for TATAPOWER.NS
+2025-04-11 14:23:17,866 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:23:17,872 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:23:17,872 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:23:25,263 - INFO - Analyzing Vedanta Limited (VEDL.NS)
+2025-04-11 14:23:27,020 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:23:27,040 - INFO - Training with 12 features for VEDL.NS
+2025-04-11 14:23:27,046 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:23:27,055 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:23:27,201 - INFO - Created new model architecture for 12 features
+2025-04-11 14:24:03,873 - INFO - Successfully trained and saved model for VEDL.NS
+2025-04-11 14:24:03,874 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:24:03,877 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:24:03,878 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:24:11,026 - INFO - Analyzing Indian Oil Corporation Limited (IOC.NS)
+2025-04-11 14:24:11,954 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:24:11,974 - INFO - Training with 12 features for IOC.NS
+2025-04-11 14:24:11,980 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:24:11,987 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:24:12,108 - INFO - Created new model architecture for 12 features
+2025-04-11 14:24:51,473 - INFO - Successfully trained and saved model for IOC.NS
+2025-04-11 14:24:51,473 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:24:51,477 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:24:51,478 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:24:58,540 - INFO - Analyzing Dabur India Limited (DABUR.NS)
+2025-04-11 14:24:59,410 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:24:59,428 - INFO - Training with 12 features for DABUR.NS
+2025-04-11 14:24:59,438 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:24:59,445 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:24:59,574 - INFO - Created new model architecture for 12 features
+2025-04-11 14:25:37,113 - INFO - Successfully trained and saved model for DABUR.NS
+2025-04-11 14:25:37,114 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:25:37,119 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:25:37,119 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:25:44,519 - INFO - Analyzing Pidilite Industries Limited (PIDILITIND.NS)
+2025-04-11 14:25:45,403 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:25:45,423 - INFO - Training with 12 features for PIDILITIND.NS
+2025-04-11 14:25:45,427 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:25:45,435 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:25:45,535 - INFO - Created new model architecture for 12 features
+2025-04-11 14:26:23,722 - INFO - Successfully trained and saved model for PIDILITIND.NS
+2025-04-11 14:26:23,722 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:26:23,726 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:26:23,726 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:26:31,448 - INFO - Analyzing Havells India Limited (HAVELLS.NS)
+2025-04-11 14:26:32,359 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:26:32,378 - INFO - Training with 12 features for HAVELLS.NS
+2025-04-11 14:26:32,383 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:26:32,391 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:26:32,525 - INFO - Created new model architecture for 12 features
+2025-04-11 14:27:10,588 - INFO - Successfully trained and saved model for HAVELLS.NS
+2025-04-11 14:27:10,588 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:27:10,592 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:27:10,593 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:27:16,951 - INFO - Analyzing GAIL (India) Limited (GAIL.NS)
+2025-04-11 14:27:17,881 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:27:17,901 - INFO - Training with 12 features for GAIL.NS
+2025-04-11 14:27:17,907 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:27:17,914 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:27:18,024 - INFO - Created new model architecture for 12 features
+2025-04-11 14:27:56,718 - INFO - Successfully trained and saved model for GAIL.NS
+2025-04-11 14:27:56,719 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:27:56,723 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:27:56,723 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:28:04,202 - INFO - Analyzing Marico Limited (MARICO.NS)
+2025-04-11 14:28:05,136 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:28:05,156 - INFO - Training with 12 features for MARICO.NS
+2025-04-11 14:28:05,162 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:28:05,169 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:28:05,315 - INFO - Created new model architecture for 12 features
+2025-04-11 14:28:42,438 - INFO - Successfully trained and saved model for MARICO.NS
+2025-04-11 14:28:42,438 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:28:42,443 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:28:42,443 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:28:48,744 - INFO - Analyzing ICICI Prudential Life Insurance Company Limited (ICICIPRULI.NS)
+2025-04-11 14:28:49,600 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:28:49,618 - INFO - Training with 12 features for ICICIPRULI.NS
+2025-04-11 14:28:49,623 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:28:49,630 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:28:49,785 - INFO - Created new model architecture for 12 features
+2025-04-11 14:29:27,256 - INFO - Successfully trained and saved model for ICICIPRULI.NS
+2025-04-11 14:29:27,257 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:29:27,260 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:29:27,261 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:29:34,742 - INFO - Analyzing Siemens Limited (SIEMENS.NS)
+2025-04-11 14:29:35,694 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:29:35,713 - INFO - Training with 12 features for SIEMENS.NS
+2025-04-11 14:29:35,718 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:29:35,726 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:29:35,832 - INFO - Created new model architecture for 12 features
+2025-04-11 14:30:13,518 - INFO - Successfully trained and saved model for SIEMENS.NS
+2025-04-11 14:30:13,519 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:30:13,522 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:30:13,523 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:30:24,983 - INFO - Analyzing Ambuja Cements Limited (AMBUJACEM.NS)
+2025-04-11 14:30:26,387 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:30:26,407 - INFO - Training with 12 features for AMBUJACEM.NS
+2025-04-11 14:30:26,412 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:30:26,426 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:30:26,526 - INFO - Created new model architecture for 12 features
+2025-04-11 14:31:04,163 - INFO - Successfully trained and saved model for AMBUJACEM.NS
+2025-04-11 14:31:04,164 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:31:04,168 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:31:04,168 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:31:11,694 - INFO - Analyzing Bank of Baroda Limited (BANKBARODA.NS)
+2025-04-11 14:31:12,720 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:31:12,738 - INFO - Training with 12 features for BANKBARODA.NS
+2025-04-11 14:31:12,744 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:31:12,752 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:31:12,851 - INFO - Created new model architecture for 12 features
+2025-04-11 14:31:50,780 - INFO - Successfully trained and saved model for BANKBARODA.NS
+2025-04-11 14:31:50,782 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:31:50,785 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:31:50,785 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:31:57,512 - INFO - Analyzing Punjab National Bank (PNB.NS)
+2025-04-11 14:31:58,436 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:31:58,455 - INFO - Training with 12 features for PNB.NS
+2025-04-11 14:31:58,461 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:31:58,468 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:31:58,568 - INFO - Created new model architecture for 12 features
+2025-04-11 14:32:37,350 - INFO - Successfully trained and saved model for PNB.NS
+2025-04-11 14:32:37,351 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:32:37,355 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:32:37,355 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:32:45,166 - INFO - Analyzing Eternal Limited (ZOMATO.NS)
+2025-04-11 14:32:46,068 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:32:46,087 - INFO - Training with 12 features for ZOMATO.NS
+2025-04-11 14:32:46,091 - INFO - Scaled data shape: (919, 12)
+2025-04-11 14:32:46,096 - INFO - Training data shape: X=(859, 60, 12), y=(859,)
+2025-04-11 14:32:46,248 - INFO - Created new model architecture for 12 features
+2025-04-11 14:33:17,598 - INFO - Successfully trained and saved model for ZOMATO.NS
+2025-04-11 14:33:17,599 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:33:17,603 - INFO - Prediction data scaled shape: (919, 12)
+2025-04-11 14:33:17,603 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:33:28,258 - INFO - Analyzing Info Edge (India) Limited (NAUKRI.NS)
+2025-04-11 14:33:29,745 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:33:29,760 - INFO - Training with 12 features for NAUKRI.NS
+2025-04-11 14:33:29,766 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:33:29,773 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:33:29,887 - INFO - Created new model architecture for 12 features
+2025-04-11 14:34:16,330 - INFO - Successfully trained and saved model for NAUKRI.NS
+2025-04-11 14:34:16,332 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:34:16,337 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:34:16,337 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:34:24,431 - INFO - Analyzing Trent Limited (TRENT.NS)
+2025-04-11 14:34:25,339 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:34:25,356 - INFO - Training with 12 features for TRENT.NS
+2025-04-11 14:34:25,363 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:34:25,370 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:34:25,523 - INFO - Created new model architecture for 12 features
+2025-04-11 14:35:07,853 - INFO - Successfully trained and saved model for TRENT.NS
+2025-04-11 14:35:07,854 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:35:07,859 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:35:07,859 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:35:18,493 - ERROR - Analysis failed for MCDOWELL-N.NS: 'NoneType' object has no attribute 'update'
+2025-04-11 14:35:24,000 - INFO - Analyzing LTIMindtree Limited (LTIM.NS)
+2025-04-11 14:35:25,089 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:35:25,110 - INFO - Training with 12 features for LTIM.NS
+2025-04-11 14:35:25,117 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:35:25,135 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:35:25,238 - INFO - Created new model architecture for 12 features
+2025-04-11 14:36:05,991 - INFO - Successfully trained and saved model for LTIM.NS
+2025-04-11 14:36:05,992 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:36:05,996 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:36:05,997 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:36:13,728 - INFO - Analyzing Berger Paints India Limited (BERGEPAINT.NS)
+2025-04-11 14:36:14,545 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:36:14,563 - INFO - Training with 12 features for BERGEPAINT.NS
+2025-04-11 14:36:14,571 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:36:14,578 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:36:14,688 - INFO - Created new model architecture for 12 features
+2025-04-11 14:36:54,372 - INFO - Successfully trained and saved model for BERGEPAINT.NS
+2025-04-11 14:36:54,372 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:36:54,376 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:36:54,376 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:37:02,109 - INFO - Analyzing Colgate-Palmolive (India) Limited (COLPAL.NS)
+2025-04-11 14:37:03,823 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:37:03,842 - INFO - Training with 12 features for COLPAL.NS
+2025-04-11 14:37:03,855 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:37:03,862 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:37:03,971 - INFO - Created new model architecture for 12 features
+2025-04-11 14:37:47,937 - INFO - Successfully trained and saved model for COLPAL.NS
+2025-04-11 14:37:47,937 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:37:47,941 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:37:47,941 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:37:56,031 - INFO - Analyzing ABB India Limited (ABB.NS)
+2025-04-11 14:37:57,059 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:37:57,090 - INFO - Training with 12 features for ABB.NS
+2025-04-11 14:37:57,098 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:37:57,109 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:37:57,246 - INFO - Created new model architecture for 12 features
+2025-04-11 14:38:38,476 - INFO - Successfully trained and saved model for ABB.NS
+2025-04-11 14:38:38,477 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:38:38,482 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:38:38,482 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:38:50,135 - INFO - Analyzing Hindustan Aeronautics Limited (HAL.NS)
+2025-04-11 14:39:06,188 - ERROR - Error fetching news sentiment: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-11 14:39:06,212 - INFO - Training with 12 features for HAL.NS
+2025-04-11 14:39:06,219 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:39:06,227 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:39:06,374 - INFO - Created new model architecture for 12 features
+2025-04-11 14:39:47,378 - INFO - Successfully trained and saved model for HAL.NS
+2025-04-11 14:39:47,382 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 14:39:47,426 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 14:39:47,427 - INFO - Prediction window shape: (60, 12)
+2025-04-11 14:39:56,082 - INFO - Analyzing InterGlobe Aviation Limited (INDIGO.NS)
+2025-04-11 14:39:56,947 - ERROR - Error fetching news sentiment: {'status': 'error', 'code': 'rateLimited', 'message': 'You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests.'}
+2025-04-11 14:39:56,965 - INFO - Training with 12 features for INDIGO.NS
+2025-04-11 14:39:56,973 - INFO - Scaled data shape: (1240, 12)
+2025-04-11 14:39:56,982 - INFO - Training data shape: X=(1180, 60, 12), y=(1180,)
+2025-04-11 14:39:57,122 - INFO - Created new model architecture for 12 features
+2025-04-11 15:03:09,400 - INFO - Successfully trained and saved model for INDIGO.NS
+2025-04-11 15:03:09,432 - INFO - Predicting with 12 features: ['Close', 'Volume', 'RSI', 'MACD', 'MACD_Signal', 'MACD_Hist', 'BB_Upper', 'BB_Lower', 'BB_Mid', 'BB_Width', 'ATR', 'Volatility']
+2025-04-11 15:03:09,684 - INFO - Prediction data scaled shape: (1240, 12)
+2025-04-11 15:03:09,694 - INFO - Prediction window shape: (60, 12)

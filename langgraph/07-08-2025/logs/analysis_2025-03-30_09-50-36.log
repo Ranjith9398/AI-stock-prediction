@@ -1,0 +1,60 @@
+2025-03-30 09:50:38,027 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-03-30 09:50:42,810 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:50:43,320 - INFO - Loaded fine-tuned model for RELIANCE.NS
+2025-03-30 09:50:45,769 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-03-30 09:50:48,907 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:50:49,394 - INFO - Loaded fine-tuned model for TCS.NS
+2025-03-30 09:50:51,849 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-03-30 09:50:55,112 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:50:55,642 - INFO - Loaded fine-tuned model for HDFCBANK.NS
+2025-03-30 09:50:58,455 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-03-30 09:51:01,744 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:02,231 - INFO - Loaded fine-tuned model for INFY.NS
+2025-03-30 09:51:04,688 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-03-30 09:51:08,581 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:09,049 - INFO - Loaded fine-tuned model for HINDUNILVR.NS
+2025-03-30 09:51:11,680 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-03-30 09:51:16,121 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:16,814 - INFO - Loaded fine-tuned model for ICICIBANK.NS
+2025-03-30 09:51:19,271 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-03-30 09:51:22,526 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:22,999 - INFO - Loaded fine-tuned model for KOTAKBANK.NS
+2025-03-30 09:51:25,693 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-03-30 09:51:30,161 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:30,642 - INFO - Loaded fine-tuned model for SBIN.NS
+2025-03-30 09:51:33,515 - INFO - Analyzing Bajaj Finance Limited (BAJFINANCE.NS)
+2025-03-30 09:51:37,561 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:38,037 - INFO - Loaded fine-tuned model for BAJFINANCE.NS
+2025-03-30 09:51:40,646 - INFO - Analyzing Bharti Airtel Limited (BHARTIARTL.NS)
+2025-03-30 09:51:43,972 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:44,426 - INFO - Loaded fine-tuned model for BHARTIARTL.NS
+2025-03-30 09:51:47,037 - INFO - Analyzing Adani Ports and Special Economic Zone Limited (ADANIPORTS.NS)
+2025-03-30 09:51:51,366 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:51,842 - INFO - Loaded fine-tuned model for ADANIPORTS.NS
+2025-03-30 09:51:54,792 - INFO - Analyzing Asian Paints Limited (ASIANPAINT.NS)
+2025-03-30 09:51:58,053 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:51:58,505 - INFO - Loaded fine-tuned model for ASIANPAINT.NS
+2025-03-30 09:52:01,082 - INFO - Analyzing Axis Bank Limited (AXISBANK.NS)
+2025-03-30 09:52:04,157 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:04,602 - INFO - Loaded fine-tuned model for AXISBANK.NS
+2025-03-30 09:52:07,237 - INFO - Analyzing Bajaj Auto Limited (BAJAJ-AUTO.NS)
+2025-03-30 09:52:10,671 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:11,191 - INFO - Loaded fine-tuned model for BAJAJ-AUTO.NS
+2025-03-30 09:52:13,613 - INFO - Analyzing Bharat Petroleum Corporation Limited (BPCL.NS)
+2025-03-30 09:52:16,703 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:17,258 - INFO - Loaded fine-tuned model for BPCL.NS
+2025-03-30 09:52:19,564 - INFO - Analyzing Britannia Industries Limited (BRITANNIA.NS)
+2025-03-30 09:52:23,528 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:24,008 - INFO - Loaded fine-tuned model for BRITANNIA.NS
+2025-03-30 09:52:26,320 - INFO - Analyzing Cipla Limited (CIPLA.NS)
+2025-03-30 09:52:29,852 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:30,415 - INFO - Loaded fine-tuned model for CIPLA.NS
+2025-03-30 09:52:32,708 - INFO - Analyzing Coal India Limited (COALINDIA.NS)
+2025-03-30 09:52:35,659 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:36,114 - INFO - Loaded fine-tuned model for COALINDIA.NS
+2025-03-30 09:52:38,487 - INFO - Analyzing Divi's Laboratories Limited (DIVISLAB.NS)
+2025-03-30 09:52:42,377 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:43,129 - INFO - Loaded fine-tuned model for DIVISLAB.NS
+2025-03-30 09:52:45,853 - INFO - Analyzing Dr. Reddy's Laboratories Limited (DRREDDY.NS)
+2025-03-30 09:52:49,203 - INFO - Loaded base model trained on multiple tickers
+2025-03-30 09:52:49,667 - INFO - Loaded fine-tuned model for DRREDDY.NS

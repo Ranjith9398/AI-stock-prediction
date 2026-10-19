@@ -1,0 +1,12 @@
+2025-03-29 17:13:52,502 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-03-29 17:13:58,836 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 17:13:59,540 - INFO - Loaded fine-tuned model for RELIANCE.NS
+2025-03-29 17:14:03,455 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-03-29 17:14:08,156 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 17:14:08,836 - INFO - Loaded fine-tuned model for TCS.NS
+2025-03-29 17:14:12,466 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-03-29 17:14:17,409 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 17:14:18,227 - INFO - Loaded fine-tuned model for HDFCBANK.NS
+2025-03-29 17:14:23,051 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-03-29 17:14:28,432 - INFO - Loaded base model trained on multiple tickers
+2025-03-29 17:14:29,357 - INFO - Loaded fine-tuned model for INFY.NS

@@ -1,0 +1,186 @@
+2025-04-10 14:06:01,343 - INFO - Analyzing Reliance Industries Limited (RELIANCE.NS)
+2025-04-10 14:06:11,389 - WARNING - Failed to load existing model for RELIANCE.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:06:11,398 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:06:11,512 - INFO - Created new model
+2025-04-10 14:07:04,322 - INFO - Successfully trained and saved model for RELIANCE.NS
+2025-04-10 14:07:08,419 - INFO - Analyzing Tata Consultancy Services Limited (TCS.NS)
+2025-04-10 14:07:15,312 - WARNING - Failed to load existing model for TCS.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:07:15,330 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:07:15,442 - INFO - Created new model
+2025-04-10 14:08:07,793 - INFO - Successfully trained and saved model for TCS.NS
+2025-04-10 14:08:11,206 - INFO - Analyzing HDFC Bank Limited (HDFCBANK.NS)
+2025-04-10 14:08:17,073 - WARNING - Failed to load existing model for HDFCBANK.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:08:17,082 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:08:17,203 - INFO - Created new model
+2025-04-10 14:09:08,912 - INFO - Successfully trained and saved model for HDFCBANK.NS
+2025-04-10 14:09:13,447 - INFO - Analyzing Infosys Limited (INFY.NS)
+2025-04-10 14:09:18,878 - WARNING - Failed to load existing model for INFY.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:09:18,888 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:09:18,984 - INFO - Created new model
+2025-04-10 14:10:12,236 - INFO - Successfully trained and saved model for INFY.NS
+2025-04-10 14:10:16,083 - INFO - Analyzing Hindustan Unilever Limited (HINDUNILVR.NS)
+2025-04-10 14:10:21,189 - WARNING - Failed to load existing model for HINDUNILVR.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:10:21,198 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:10:21,278 - INFO - Created new model
+2025-04-10 14:11:16,572 - INFO - Successfully trained and saved model for HINDUNILVR.NS
+2025-04-10 14:11:22,703 - INFO - Analyzing ICICI Bank Limited (ICICIBANK.NS)
+2025-04-10 14:11:28,885 - WARNING - Failed to load existing model for ICICIBANK.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:11:28,901 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:11:29,022 - INFO - Created new model
+2025-04-10 14:12:23,463 - INFO - Successfully trained and saved model for ICICIBANK.NS
+2025-04-10 14:12:27,030 - INFO - Analyzing Kotak Mahindra Bank Limited (KOTAKBANK.NS)
+2025-04-10 14:12:32,978 - WARNING - Failed to load existing model for KOTAKBANK.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:12:32,995 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:12:33,093 - INFO - Created new model
+2025-04-10 14:13:33,754 - INFO - Successfully trained and saved model for KOTAKBANK.NS
+2025-04-10 14:13:37,591 - INFO - Analyzing State Bank of India (SBIN.NS)
+2025-04-10 14:13:43,284 - WARNING - Failed to load existing model for SBIN.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:13:43,295 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:13:43,395 - INFO - Created new model
+2025-04-10 14:15:03,940 - INFO - Successfully trained and saved model for SBIN.NS
+2025-04-10 14:15:11,602 - INFO - Analyzing Bajaj Finance Limited (BAJFINANCE.NS)
+2025-04-10 14:15:17,355 - WARNING - Failed to load existing model for BAJFINANCE.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:15:17,365 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:15:17,509 - INFO - Created new model
+2025-04-10 14:16:44,643 - INFO - Successfully trained and saved model for BAJFINANCE.NS
+2025-04-10 14:16:51,718 - INFO - Analyzing Bharti Airtel Limited (BHARTIARTL.NS)
+2025-04-10 14:16:57,647 - WARNING - Failed to load existing model for BHARTIARTL.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:16:57,662 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:16:57,791 - INFO - Created new model
+2025-04-10 14:18:25,179 - INFO - Successfully trained and saved model for BHARTIARTL.NS
+2025-04-10 14:18:33,286 - INFO - Analyzing Adani Ports and Special Economic Zone Limited (ADANIPORTS.NS)
+2025-04-10 14:18:39,463 - WARNING - Failed to load existing model for ADANIPORTS.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:18:39,477 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:18:39,611 - INFO - Created new model
+2025-04-10 14:20:08,843 - INFO - Successfully trained and saved model for ADANIPORTS.NS
+2025-04-10 14:20:15,799 - INFO - Analyzing Asian Paints Limited (ASIANPAINT.NS)
+2025-04-10 14:20:21,832 - WARNING - Failed to load existing model for ASIANPAINT.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:20:21,845 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:20:21,963 - INFO - Created new model
+2025-04-10 14:21:46,150 - INFO - Successfully trained and saved model for ASIANPAINT.NS
+2025-04-10 14:21:52,501 - INFO - Analyzing Axis Bank Limited (AXISBANK.NS)
+2025-04-10 14:21:59,361 - WARNING - Failed to load existing model for AXISBANK.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:21:59,378 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:21:59,498 - INFO - Created new model
+2025-04-10 14:23:29,389 - INFO - Successfully trained and saved model for AXISBANK.NS
+2025-04-10 14:23:37,456 - INFO - Analyzing Bajaj Auto Limited (BAJAJ-AUTO.NS)
+2025-04-10 14:23:43,652 - WARNING - Failed to load existing model for BAJAJ-AUTO.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:23:43,660 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:23:43,758 - INFO - Created new model
+2025-04-10 14:24:36,033 - INFO - Successfully trained and saved model for BAJAJ-AUTO.NS
+2025-04-10 14:24:39,486 - INFO - Analyzing Bharat Petroleum Corporation Limited (BPCL.NS)
+2025-04-10 14:24:44,030 - WARNING - Failed to load existing model for BPCL.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:24:44,037 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:24:44,117 - INFO - Created new model
+2025-04-10 14:25:31,155 - INFO - Successfully trained and saved model for BPCL.NS
+2025-04-10 14:25:36,807 - INFO - Analyzing Britannia Industries Limited (BRITANNIA.NS)
+2025-04-10 14:25:42,873 - WARNING - Failed to load existing model for BRITANNIA.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:25:42,883 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:25:42,972 - INFO - Created new model
+2025-04-10 14:26:42,903 - INFO - Successfully trained and saved model for BRITANNIA.NS
+2025-04-10 14:26:46,262 - INFO - Analyzing Cipla Limited (CIPLA.NS)
+2025-04-10 14:26:51,385 - WARNING - Failed to load existing model for CIPLA.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:26:51,392 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:26:51,458 - INFO - Created new model
+2025-04-10 14:27:37,795 - INFO - Successfully trained and saved model for CIPLA.NS
+2025-04-10 14:27:41,101 - INFO - Analyzing Coal India Limited (COALINDIA.NS)
+2025-04-10 14:27:45,626 - WARNING - Failed to load existing model for COALINDIA.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:27:45,634 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:27:45,703 - INFO - Created new model
+2025-04-10 14:28:41,545 - INFO - Successfully trained and saved model for COALINDIA.NS
+2025-04-10 14:28:45,211 - INFO - Analyzing Divi's Laboratories Limited (DIVISLAB.NS)
+2025-04-10 14:28:49,544 - WARNING - Failed to load existing model for DIVISLAB.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:28:49,551 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:28:49,659 - INFO - Created new model
+2025-04-10 14:29:46,497 - INFO - Successfully trained and saved model for DIVISLAB.NS
+2025-04-10 14:29:50,836 - INFO - Analyzing Dr. Reddy's Laboratories Limited (DRREDDY.NS)
+2025-04-10 14:29:57,431 - WARNING - Failed to load existing model for DRREDDY.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:29:57,439 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:29:57,533 - INFO - Created new model
+2025-04-10 14:30:58,789 - INFO - Successfully trained and saved model for DRREDDY.NS
+2025-04-10 14:31:04,434 - INFO - Analyzing Eicher Motors Limited (EICHERMOT.NS)
+2025-04-10 14:31:09,388 - WARNING - Failed to load existing model for EICHERMOT.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:31:09,395 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:31:09,465 - INFO - Created new model
+2025-04-10 14:32:15,703 - INFO - Successfully trained and saved model for EICHERMOT.NS
+2025-04-10 14:32:19,374 - INFO - Analyzing Grasim Industries Limited (GRASIM.NS)
+2025-04-10 14:32:25,421 - WARNING - Failed to load existing model for GRASIM.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:32:25,430 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:32:25,530 - INFO - Created new model
+2025-04-10 14:33:23,753 - INFO - Successfully trained and saved model for GRASIM.NS
+2025-04-10 14:33:27,640 - INFO - Analyzing HCL Technologies Limited (HCLTECH.NS)
+2025-04-10 14:33:32,127 - WARNING - Failed to load existing model for HCLTECH.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:33:32,137 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:33:32,227 - INFO - Created new model
+2025-04-10 14:34:28,988 - INFO - Successfully trained and saved model for HCLTECH.NS
+2025-04-10 14:34:33,294 - INFO - Analyzing Hero MotoCorp Limited (HEROMOTOCO.NS)
+2025-04-10 14:34:39,308 - WARNING - Failed to load existing model for HEROMOTOCO.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:34:39,316 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:34:39,401 - INFO - Created new model
+2025-04-10 14:35:38,492 - INFO - Successfully trained and saved model for HEROMOTOCO.NS
+2025-04-10 14:35:42,331 - INFO - Analyzing HDFC Life Insurance Company Limited (HDFCLIFE.NS)
+2025-04-10 14:35:47,969 - WARNING - Failed to load existing model for HDFCLIFE.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:35:47,977 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:35:48,053 - INFO - Created new model
+2025-04-10 14:36:43,684 - INFO - Successfully trained and saved model for HDFCLIFE.NS
+2025-04-10 14:36:49,587 - INFO - Analyzing ITC Limited (ITC.NS)
+2025-04-10 14:36:56,063 - WARNING - Failed to load existing model for ITC.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:36:56,070 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:36:56,143 - INFO - Created new model
+2025-04-10 14:38:14,512 - INFO - Successfully trained and saved model for ITC.NS
+2025-04-10 14:38:19,113 - INFO - Analyzing IndusInd Bank Limited (INDUSINDBK.NS)
+2025-04-10 14:38:27,011 - WARNING - Failed to load existing model for INDUSINDBK.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:38:27,021 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:38:27,109 - INFO - Created new model
+2025-04-10 14:39:31,060 - INFO - Successfully trained and saved model for INDUSINDBK.NS
+2025-04-10 14:39:35,608 - INFO - Analyzing JSW Steel Limited (JSWSTEEL.NS)
+2025-04-10 14:40:00,445 - WARNING - Failed to load existing model for JSWSTEEL.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:40:00,456 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:40:00,583 - INFO - Created new model
+2025-04-10 14:41:07,370 - INFO - Successfully trained and saved model for JSWSTEEL.NS
+2025-04-10 14:41:14,297 - INFO - Analyzing Larsen & Toubro Limited (LT.NS)
+2025-04-10 14:41:20,374 - WARNING - Failed to load existing model for LT.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:41:20,383 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:41:20,499 - INFO - Created new model
+2025-04-10 14:42:23,255 - INFO - Successfully trained and saved model for LT.NS
+2025-04-10 14:42:27,746 - INFO - Analyzing Maruti Suzuki India Limited (MARUTI.NS)
+2025-04-10 14:42:33,407 - WARNING - Failed to load existing model for MARUTI.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:42:33,417 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:42:33,500 - INFO - Created new model
+2025-04-10 14:43:36,105 - INFO - Successfully trained and saved model for MARUTI.NS
+2025-04-10 14:43:41,905 - INFO - Analyzing Nestlé India Limited (NESTLEIND.NS)
+2025-04-10 14:43:42,822 - WARNING - Failed to load existing model for NESTLEIND.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:43:42,830 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:43:42,915 - INFO - Created new model
+2025-04-10 14:44:40,484 - INFO - Successfully trained and saved model for NESTLEIND.NS
+2025-04-10 14:44:44,630 - INFO - Analyzing NTPC Limited (NTPC.NS)
+2025-04-10 14:44:49,944 - WARNING - Failed to load existing model for NTPC.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:44:49,955 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:44:50,046 - INFO - Created new model
+2025-04-10 14:45:48,338 - INFO - Successfully trained and saved model for NTPC.NS
+2025-04-10 14:45:52,572 - INFO - Analyzing Oil and Natural Gas Corporation Limited (ONGC.NS)
+2025-04-10 14:45:57,748 - WARNING - Failed to load existing model for ONGC.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:45:57,761 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:45:57,852 - INFO - Created new model
+2025-04-10 14:46:54,738 - INFO - Successfully trained and saved model for ONGC.NS
+2025-04-10 14:46:58,989 - INFO - Analyzing Power Grid Corporation of India Limited (POWERGRID.NS)
+2025-04-10 14:47:04,351 - WARNING - Failed to load existing model for POWERGRID.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:47:04,361 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:47:04,457 - INFO - Created new model
+2025-04-10 14:48:16,488 - INFO - Successfully trained and saved model for POWERGRID.NS
+2025-04-10 14:48:20,441 - INFO - Analyzing SBI Life Insurance Company Limited (SBILIFE.NS)
+2025-04-10 14:48:27,955 - WARNING - Failed to load existing model for SBILIFE.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:48:27,965 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:48:28,066 - INFO - Created new model
+2025-04-10 14:49:37,313 - INFO - Successfully trained and saved model for SBILIFE.NS
+2025-04-10 14:49:43,715 - INFO - Analyzing Sun Pharmaceutical Industries Limited (SUNPHARMA.NS)
+2025-04-10 14:49:49,077 - WARNING - Failed to load existing model for SUNPHARMA.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:49:49,086 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:49:49,180 - INFO - Created new model
+2025-04-10 14:50:49,530 - INFO - Successfully trained and saved model for SUNPHARMA.NS
+2025-04-10 14:50:53,802 - INFO - Analyzing Tata Consumer Products Limited (TATACONSUM.NS)
+2025-04-10 14:50:58,854 - WARNING - Failed to load existing model for TATACONSUM.NS: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:50:58,864 - WARNING - Failed to load base model: Unrecognized keyword arguments passed to LSTM: {'time_major': False}
+2025-04-10 14:50:58,943 - INFO - Created new model
+2025-04-10 14:51:58,837 - INFO - Successfully trained and saved model for TATACONSUM.NS
+2025-04-10 14:52:02,252 - INFO - Analyzing Tata Motors Limited (TATAMOTORS.NS)
